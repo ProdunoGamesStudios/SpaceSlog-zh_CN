@@ -6,10 +6,10 @@ uid="uid://dhx1nmpmh21ml"
 
 [deps]
 
-files=["res://Data/Core/Language/en/Keys/Keys.en.translation"]
+files=["res://Data/Core/Language/zh_CN/Keys/Keys.zh_CN.translation"]
 
-source_file="res://Data/Core/Language/en/Keys/Keys.csv"
-dest_files=["res://Data/Core/Language/en/Keys/Keys.en.translation"]
+source_file="res://Data/Core/Language/zh_CN/Keys/Keys.csv"
+dest_files=["res://Data/Core/Language/zh_CN/Keys/Keys.zh_CN.translation"]
 
 [params]
 
