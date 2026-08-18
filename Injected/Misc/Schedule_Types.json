@@ -1,0 +1,18 @@
+{
+    "Anything": {
+        "title": "任意",
+        "description": "可以做任何行为。"
+    },
+    "Work": {
+        "title": "工作",
+        "description": "若可能，将只进行与工作相关的行为。"
+    },
+    "Sleep": {
+        "title": "睡觉",
+        "description": "若可能，将会睡觉。"
+    },
+    "Entertainment": {
+        "title": "娱乐",
+        "description": "若可能，将只进行娱乐活动。"
+    }
+}

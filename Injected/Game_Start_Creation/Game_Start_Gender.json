@@ -1,0 +1,8 @@
+﻿{
+	"Male": {
+		"description": "你的舰长一个男人。"
+	},
+	"Female": {
+		"description": "你的舰长是一个女人。"
+	}
+}

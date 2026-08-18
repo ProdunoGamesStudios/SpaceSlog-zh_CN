@@ -1,0 +1,53 @@
+﻿{
+	"Punch": {
+		"title": "拳击"
+	},
+	"Bite": {
+		"title": "撕咬"
+	},
+	"Peck": {
+		"title": "啄击"
+	},
+	"Scratch": {
+		"title": "爪击"
+	},
+	"Poke": {
+		"title": "戳击"
+	},
+	"Headbutt": {
+		"title": "头槌"
+	},
+	"Gouge": {
+		"title": "剜凿"
+	},
+	"Stomp": {
+		"title": "践踏"
+	},
+	"Kick": {
+		"title": "踢击"
+	},
+	"Whip": {
+		"title": "鞭打"
+	},
+	"Stab": {
+		"title": "刺击"
+	},
+	"Slash": {
+		"title": "切割"
+	},
+	"Hack": {
+		"title": "劈砍"
+	},
+	"Heave": {
+		"title": "猛击"
+	},
+	"PommelBash": {
+		"title": "剑柄砸击"
+	},
+	"Swing": {
+		"title": "挥舞"
+	},
+	"ShieldBash": {
+		"title": "盾击"
+	}
+}

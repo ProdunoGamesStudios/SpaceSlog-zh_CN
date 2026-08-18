@@ -1,0 +1,590 @@
+﻿{
+	"game_difficulty": {
+		"shipbuilder": "建造模式-建筑师的专选",
+		"timid": "简单-边学边玩",
+		"normal": "普通-传统的难度",
+		"brutal": "困难-我是抖M",
+		"shipbuilder_description": "给那些想要安安静静地建造飞船或者探索宇宙的人准备的难度，几乎不会遇到天灾与人祸，各方势力都会比较友善，并且你的船员们会有一个常驻的心情buff。",
+		"timid_description": "想要一个更轻松的体验？危险与事故的频率与烈度将会有所下降。",
+		"normal_description": "经典的SpaceSlog体验，推荐玩过一遍的玩家使用。",
+		"brutal_description": "你将会面对严峻的挑战，危险将会更难以对付且发生的更为频繁，多数势力将会与你为敌。"
+	},
+
+	"game_type": {
+		"progressive": "有序-循序渐进",
+		"random": "随机-赞美混沌",
+		"progressive_description": "你的体验将会更加和谐有序，尽管还是有许多随机生成的内容，但游戏会为你量身打造你的体验：事故会基于你当前的状态被调整，且会变得循序渐进，以确保你有喘息的空间。",
+		"random_description": "势力的特性与偏向性、事故、以及游戏很多其他的方面将会非常随机，以让你的游戏体验惊悚而刺激。等待你的将会是天赐良机还是灭顶之灾？"
+	},
+
+	"game_mode": {
+		"survival": "生存",
+		"campaign": "战役",
+		"survival_description": "经典的游戏体验：搜集资源，建造你的飞船并在群星之中驰骋，你能活多久？",
+		"campaign_description": "将会有一个完整的星系图。"
+	},
+
+	"game_settings": {
+		"world_seed_description": "你可以在此处更改你宇宙的种子。将你的种子发给他人以让他们体验到与你相同的世界。",
+		"randomise_seed_button_hint": "随机生成种子",
+		"seed_line_edit_hint": "请输入种子"
+	},
+
+	"temperature": {
+		"celsius": "摄氏度",
+		"fahrenheit": "华氏度",
+		"kelvin": "开尔文"
+	},
+
+		"error_text_missing": "无文本",
+		"restart_game_prompt": "你更改的设置需要重启游戏来生效。\n\n[color=RED]警告：模组将会使你无法获得成就。[/color]",
+		"game_over_pawns_dead": "你的所有船员都死了，无人来维持你飞船的运转。\n\n你可以退出并返回主菜单，或者寄希望于能等来一个发现并拯救你飞船的人。",
+		"game_over_ship_blown": "你的飞船被摧毁，船员们将会慢慢死去：无边的黑暗，无边的黑暗与孤寂，慢慢耗尽自己的氧气和能量。\n\n你可以退出并返回主菜单，或者期盼某个奇迹的到来。",
+		"quit_confirm": "你确定退出吗？未被保存的进度将会消失！",
+		"updates": "体验版更新",
+		"autosave": "自动存档",
+		"permanently_remove_all_lessons": "永久移除所有教程",
+		"lesson": "教程",
+
+		"leaving": "正在离开......！",
+
+		"language_credits_title": "译者鸣谢",
+
+		"skill_required": "所需技能等级",
+		"fertility": "繁殖力",
+		"fertilised": "已受精",
+		"unfertilised": "未受精",
+		"requires": "需要",
+		"blueprint": "蓝图",
+		"you_have_now_passed": "你已经坚持过了",
+		"does_not_have_enough_skill_to_perform_action": "%s 没有足够的 %s 技能来完成这一行为。",
+
+		"weak": "弱",
+		"strong": "强",
+		"light": "亮度",
+
+		"toggle_headgear": "显示头盔",
+		"randomise_selected_pawn": "将已选中的船员随机重新生成。\n\n注：船长无法重新生成。",
+		"recruit_pawn": "征用这个船员",
+		"max_recruits": "最大征用人数",
+
+		"select": "选中",
+		"deselect": "取消选中",
+		"delete_game": "删除这个存档",
+		"days_left": "剩余天数",
+
+		"ship_arrived": "{ship_name}已进入通讯距离。",
+		"various_items_selected": "已选中多种物品",
+
+		"category": "类别",
+		"input": "输入",
+		"output": "输出",
+
+		"choose_resources_for_production": "为这个配方指定使用哪些材料",
+		"change_recipe_priority": "改变这个配方的优先级。\n\n除非你取消他们，已经开始制作的配方仍会先完成制作。",
+
+		"cargo_space_data": "货舱空间\n\n已使用的货舱空间：{space_used}\n总可用空间：{space_available}",
+		"hull_total": "船体现血量/最大血量\n\n船体血量：{current_hp}\n最大血量：{max_hp}",
+		"power_total": "用电量/总发电量\n\n用电量：{power_used}{unit}\n总发电量：{total_power}{unit}",
+		"stored_power_total": "已存储电量/电池最大储电量\n\n已存储电量：{current_stored}{unit}\n电池最大储电量：{total_storage}{unit}",
+		"heat_total": "当下船上观测到的最高温度：{current_temp}.\n\n更高的温度意味着更高的失火概率。\n\n [color=GRAY]舱门温度也在这个统计范围内。[/color]",
+		"atmosphere_total": "可呼吸空气总体上的气压/最高可容纳的气压\n\n [color=GRAY]舱门气压也在这个统计范围内。[/color]",
+		"gas_total": "当下气体产出量/所有设备的最大气体总产出量\n\n当下气体产出：{gas_used}{unit}\n最大气体产出量{total_gas}{unit}",
+		"stored_gas_total": "已储存气体量/储气罐最大储气量\n\n已储存气体量：{current_stored}{unit}\n储气罐最大储气量：{total_storage}{unit}",
+
+		"en_health": "这件物品的剩余血量",
+		"en_power_source": "发电量/总可用电力",
+		"en_power_receiver": "用电量/总需求电量",
+		"en_work_to_build": "建成这个建筑还需的工作量",
+
+		"first_name": "名",
+		"nickname": "外号",
+		"last_name": "姓",
+		"first_name_hint": "这是这个人物的名。",
+		"nickname_hint": "这是这个人物的外号。",
+		"last_name_hint": "这是这个人物的姓。",
+
+		"time_till_hatched": "{time}后孵化",
+		"lay_egg_time": "{time}后将会产下{fertility}蛋",
+
+	"faction": {
+		"backstory": "一群被称为{name}的{species}",
+		"backstory_leader": "其现任领袖名称是{leader_name}。",
+		"backstory_homeworld": "他们来自于{homeworld}.",
+		"player_pawn_captured": "{pawn_name}被{captor_name}抓住了！"
+	},
+
+		"choose_export_ship_name": "为你要导出的飞船命名。这也将是文件名，所以尽量不要用已有文件的名称。",
+		"ship_export_info": "导出的飞船将出现在你的user data文件夹。将其移动到Facility Layouts文件夹并在某个情景内选择它以用这个飞船开局。",
+
+	"menus": {
+		"delete_confirmation": "你确定要删除这个存档吗？被删除的存档将无法被找回。",
+		"overwrite_confirmation": "你确定要覆盖这个存档吗？被覆盖的存档将无法被找回。"
+	},
+
+	"room_panel": {
+		"oxygen_pressure": "房间内当前的氧气分压",
+		"carbon_dioxide_pressure": "房间内当前的二氧化碳分压",
+		"hazardous_gas_pressure": "房间内当前的危险气体分压",
+		"breached": "船体破损！",
+		"breached_hint": "这个房间外墙被破坏，里面的气体正在逸散。",
+		"sealed": "气密性完好",
+		"sealed_hint": "这个房间气密性完好，并无气体泄露。",
+		"current_pressure": "当前气压",
+		"max_pressure": "最大总气压",
+		"temperature_hint": "这个房间总体上的温度",
+		"room_at_capacity": "达到房间人数上限，添加床位或者移出船员。",
+		"capacity": "人数上限：",
+		"assigned_this_room": "被分到这个房间里的人：",
+		"assigned_another_room": "被分到其他房间里的人：",
+		"assigned_no_room": "暂未分配房间的人：",
+		"owners": "拥有者：",
+		"lock": "锁上这个房间来避免有人自动被分配到这里"
+	},
+
+	"character_panel": {
+		"health": "这个生物总体上的健康状况",
+		"mood": "这个生物当下的心情",
+		"atmosphere": "这个生物的呼吸状况",
+		"gas_tank_level": "当前装备的氧气瓶内的剩余气体",
+		"facility_label": "{facility_name}的",
+		"wild": "野生的",
+		"tame": "已驯服",
+		"na": "N/A",
+		"whole_body": "全身",
+		"bleeding_out": "正在流血：{time}内死亡。",
+		"old_wound": "旧伤口"
+	},
+
+	"object_panel" : {
+		"fuel_type_required": "当前燃料\n\n所需燃料：{fuel}.",
+		"air_source": "正在产出的气体",
+		"air_receiver": "正在流入的气体",
+		"stored_air": "已储存的气体量",
+		"stored_power": "已储存的电量",
+		"growth_percent": "已成长{growth}%",
+		"progress_percent": "{progress}%进度",
+		"ready_to_harvest": "可以收获",
+		"mature": "成熟",
+		"working": "正在工作",
+		"ingredients_added": "已放入的材料：",
+		"no_orders": "无订单",
+		"cancel_recipe_order": "取消订单\n\n如果配方一开始制作，已放入的物品将不会退回。"
+	},
+
+	"morale_panel": {
+		"morale": "心情：{percentage}%\n\n心情值反映了一个生物\n\n如果心情值太低，此生物可能会违抗命令，或者更糟。",
+		"hunger": "饱食度：{percentage}% ({stat_value})\n\n饱食度反映了此生物最近摄入的固体。",
+		"thirst": "水分：{percentage}% ({stat_value})\n\水分反映了此生物最近摄入的液体。",
+		"energy": "能量：{percentage}%\n\n能量反映了此生物在累垮前能做的功。"
+	},
+
+	"equipment_panel": {
+		"encumbrance": "总重量\n\n这个生物的总重量，包括其自身重量与装备物品重量",
+		"temperature_range": "温度范围\n\n此生物的舒适温度范围",
+		"durability": "耐久度\n\n所有装备物品的耐久度",
+		"rad_defence": "辐射防御力\n\n此生物的总辐射防御力，包括其自身抗性与装备物品所提供的防御力。",
+		"cut_attack": "总切割攻击力",
+		"blunt_attack": "总钝击攻击力",
+		"cut_defence": "总切割防御力",
+		"blunt_defence": "总钝击防御力"
+	},
+
+	"crew_panel": {
+		"always_try_wear_spacesuit": "若选择：此生物会在任何时候都尽可能地穿上整套太空服。",
+		"allow_removal_of_helmet": "若选择：生物会在条件允许情况下移除头盔。",
+		"role_capacity": "职位上限：",
+		"clear_current_role": "无职位\n\n清除当前职位",
+		"role_at_capacity": "担任职位上限的职位",
+		"essential_role": "必要职位"
+	},
+
+	"equipment_slots": {
+		"carrying": "携带",
+		"armour": "护甲",
+		"weapon": "武器",
+		"headgear": "头部护具",
+		"body_under": "身体内层",
+		"legs": "腿部",
+		"footwear": "鞋具",
+		"offhand": "副手",
+		"body_over": "身体外层",
+		"utility": "功能性物品",
+		"hands": "手部"
+	},
+
+	"priorities": {
+		"low": "低",
+		"medium": "中",
+		"high": "高"
+	},
+
+	"context" :{
+		"schedule": "时间表",
+		"force_do_thing": "强制{action}",
+		"no_path": "无法{action}：未找到通向此处的道路",
+		"not_enough_room": "没有足够的空间来{action}",
+		"reserved_by_someone_else": "无法{action}：该物品已为{someone_else}预留",
+		"not_assigned_work_type": "无法{action}：未被分配此类工作",
+		"incapable_skills": "无法{action}：不具备相关技能",
+		"skills_too_low": "无法{action}：技能等级过低",
+		"no_ingredients": "无法{action}：无可用材料",
+		"cannot_path_to_ingredient": "无法{action}：没有通向对应材料的道路",
+		"brew_not_ready": "无法{action}：熬煮未完成",
+		"harvest_not_ready": "无法{action}：尚不可收割",
+		"no_medical_supplies": "无法{action}：没有医疗资源",
+		"cannot_path_to_medical_supplies": "无法{action}：没有通向医疗资源的道路",
+		"unable_to": "未能{action}",
+		"no_storage_available": "无法{action}：存储空间不足",
+		"no_fuel_available": "无法{action}：没有燃料",
+		"cannot_path_to_fuel": "无法{action}：没有通向燃料的道路",
+		"no_seeds_available": "无法{action}：没有可用种子",
+		"cannot_path_to_seed": "无法{action}：没有通向种子的道路",
+		"no_beds_available": "没有可用于{action}的床",
+		"no_animal_beds_available": "没有可用于{action}的动物床位",
+		"no_where_to": "没有地方可以{action}",
+		"someone_else": "别人",
+		"cannot_see": "因无法看见目标而无法{action}",
+		"no_secure_prison_beds_available": "没有可靠的囚徒床位",
+		"no_food_available": "无法{action}：没有可用食物",
+		"cannot_path_to_food": "无法{action}没有通向食物的道路",
+		"no_drink_available": "无法{action}：没有饮品",
+		"cannot_path_to_drink": "无法{action}：没有通向饮品的道路"
+	},
+
+		"systems_alarm_button": "敲响警报！红色警戒！",
+		"systems_power_button": "开关全舰的电力",
+		"black_alert_title": "黑色警戒",
+		"black_alert_tooltip": "黑色警戒！全员返回飞船！",
+		"jump_to_high_burn": "加速以进入高速飞行模式。\n\n警告：不在飞船上的所有物品将不会被带走。",
+		"drop_from_high_burn": "退出高速飞行模式：在你再次积攒推进力时将可能遭受危险。",
+		"drop": "退出",
+		"burn": "推进力",
+		"high_burn_meter": "若要进入高速飞行模式，你需要让推进器蓄力并确保船舱内部有足够的气压。推进力积累速度由当前已接入电力的推进器数量决定，只有推进力积累完成方可进入高速飞行模式。\n\n已积累推进力：{current}\n所需推进力：{max}",
+		"ship_communicating_with": "飞船：{ship_name}",
+		"pawn_initiated_trade": "{pawn_name}以社交等级{skill_level}开始交易",
+		"the_ship_name": "{ship_name}",
+
+		"no_name_set": "无名",
+		"no_description_set": "无描述性文本",
+		"pawn_amount": "x {amount}",
+		"characters": "角色",
+
+		"click_to_assign": "点击以分配",
+		"power_button_on": "全部开启",
+		"power_button_off": "全部关闭",
+		"sys_ship_name_button": "飞船目前的注册名称\n\n点击以为飞船改名",
+		"sys_captain_button": "飞船的现任舰长\n\n点击以指任新舰长",
+		"sys_quartermaster_button": "飞船目前的军需官\n\n点击以指任新的军需官",
+		"sys_red_alert_button": "拉响警报！",
+
+	"facility_panel": {
+		"faction_info": "来自{faction}的{ship_type}",
+		"bribe_info": "在此界面你可以尝试贿赂这艘飞船，但贿赂失败可能会有严重后果。",
+		"ship_left": "{ship_name}已脱离通讯范围",
+		"no_trade_low_relation": "因关系过差而无法进行交易。",
+		"no_trade_no_pawn": "没有可与其交易的船员。",
+		"no_pawn_no_bribe": "没有可以行贿的船员。",
+		"hint_ship_trading": "交易需要与对方关系融洽，拥有一个通讯终端，以及一个能展开交易的船员。",
+		"hint_bribe_ship": "如果此飞船怀有敌意，向他们行贿可能可以让他们离开。",
+		"cannot_bribe_ship": "你无法向此飞船行贿。",
+		"already_bribed": "你无法继续向这艘飞船行贿。",
+		"attempt_to_bribe": "每次尝试行贿将消耗{bribe_amount}金钱。",
+		"attempt_to_bribe_facility_name": "尝试贿赂{facility_name}",
+		"you_will_pay": "你将支付：{amount}",
+		"you_will_get": "你会得到：{amount}"
+	},
+
+	"planet_panel": {
+		"scan_description": "有了合适的扫描设备你就可以更了解这个星体了。",
+		"visit_planet_description": "你需要一艘运输机来向这个星球投送小队。",
+		"planet_info_title": "星球信息："
+	},
+
+		"incapable_performing_skill": "没有能力执行这个技能",
+		"level": "技能等级",
+		"total_experience": "总经验值",
+		"experience_next_level": "晋级还需经验值",
+
+		"disable_flooring_button": "开启选择地板的功能",
+		"click_to_center": "点击此处以跳转到事件发生处",
+
+		"door_opening": "正在打开",
+		"door_open": "开着的",
+		"door_closing": "正在关上",
+		"door_closed": "关着的",
+		"battery_discharge_efficiency": "{efficiency}%效率-放电量{power_draw}{unit}.",
+
+		"kilogram_unit": "公斤",
+		"tonne_unit": "吨",
+		"money_unit": "块",
+		"watt_days_unit": "瓦日",
+		"watt_unit": "瓦",
+		"litres_unit": "升",
+		"litre_days_unit": "升每天",
+
+		"durability": "耐久度",
+		"body_covered": "被覆盖的身体部位",
+
+		"zone": "区域",
+
+		"change_character_name": "为角色改名",
+		"change_room_name": "为房间改名",
+		"change_ship_name": "改变飞船名称",
+		"change_faction_name": "为势力名称",
+		"change_zone_name": "改变区域名称",
+		"room_name": "房间名称",
+		"ship_name": "飞船名称",
+		"faction_name": "势力名称",
+		"zone_name": "区域名称",
+		"crew": "船员",
+		"mission": "任务",
+
+		"mod_game_version": "适配游戏版本",
+		"mod_author": "创作者",
+		"version": "版本 %s",
+		"where_to_upload": "请选择将模组上传到何处。",
+		"authentication_required": "需要验证......",
+		"enter_email_address": "请输入你的电子邮箱来收取验证码。",
+		"enter_valid_email_address": "请输入一个有效的电子邮箱。",
+		"enter_authentication_code": "请输入你收到的验证码。",
+		"sending_security_code": "正在发送验证码......",
+		"code_must_be_five_characters": "验证码必须是5个字节",
+		"verifying_code": "正在确认验证码......",
+		"authentication_successful": "认证成功！",
+
+		"reducing_mood": "心情减少",
+		"increasing_mood": "心情增加",
+		"lasting_for": "将持续",
+
+		"fatal_error_files_missing_or_corrupt": "FATAL ERROR：运行游戏需要的文件缺失或损坏{message}。正在关闭：请检查文件或文件夹中是否出现错误，重新下载所需文件，或者在报告bug的同时将log文件上传。",
+
+	"history": {
+		"joined_crew": "成为了你的船员。"
+	},
+
+	"notification": {
+		"exhausted": "{pawn_name}已累垮。",
+		"dehydrated": "{pawn_name}感到干渴。",
+		"starving": "{pawn_name}饥饿难耐。",
+		"suffocating": "{pawn_name}无法呼吸。",
+		"joined_crew": "{pawn_name}成为了你的船员。",
+		"left_crew": "{pawn_name}不再是你的船员。",
+		"pawn_skill_levelled_up": "{pawn_name}的{skill}达到了{level}级。",
+		"pawn_skill_atrophy": "{pawn_name}的{skill}降到了{level}级。",
+		"room_breach_sealed": "{room_name}已密封。",
+		"room_breached": "{room_name}气密性遭到损坏。",
+		"room_destroyed": "{room_name}已被摧毁。",
+		"ran_out_of_fuel": "有一个{entity}耗尽了燃料。",
+		"red_alert_started": "拉响红色警戒！",
+		"red_alert_finished": "红色警戒结束！",
+		"nothing_to_cancel": "此处没有可以取消的指令。",
+		"nothing_to_deconstruct": "此处没有可以拆除的建筑。",
+		"nothing_selected_to_mine": "此处没有可以挖掘的对象。",
+		"nothing_selected_to_harvest": "此处没有可以收获的对象。",
+		"nothing_selected_to_hunt": "此处没有可以狩猎的生物。",
+		"unable_to_place_zone_here": "未能在此处划定区域。",
+		"no_path_nearby": "周围没有可用的道路。",
+		"thrusters_need_to_be_powered_to_enter_high_burn": "在进入高速飞行模式前，你的推进器需要有电。",
+		"no_crew_to_operate_this": "你没有可以运转此台设备的船员。",
+		"claimed_a_bed_in_room": "{pawn_name}已自主入住{room_name}。",
+
+		"out_of_build_bounds": "超出边界",
+		"cannot_build_on_a_blueprint": "此处已有蓝图。",
+		"already_have_transponder": "每艘船上只能有一个应答器。",
+		"space_already_occupied": "此处已被占用。",
+		"you_have_no_transponder": "你没有应答器。",
+		"cannot_be_placed_here": "目标无法放置在此处。",
+		"cannot_be_placed_in_empty_space": "目标无法放置在太空。",
+		"identical_object_already_exists_here": "此处已存在相同的物品。",
+		"identical_blueprint_already_exists_here": "此处已存在相同的蓝图。",
+		"must_be_placed_on_ship_structure": "目标必须放置在飞船结构上。",
+		"cannot_be_placed_on_armour": "目标无法放置在装甲外壳上。",
+
+		"must_be_placed_internally": "目标必须放置在室内。",
+		"already_flooring_overlay_here": "此处已铺地板。",
+
+		"bribe_successful": "贿赂成功！",
+		"bribe_unsuccessful": "贿赂失败！",
+		"relations_reduced": "{faction_1}与{faction_2}的关系下降了{amount}点。",
+		"relations_increased": "{faction_1}与{faction_2}的关系上升{amount}点。",
+		"player_relations_reduced": "你与{faction}的关系下降了{amount}点。",
+		"player_relations_increased": "你与{faction}的关系上升了{amount}点。",
+
+		"ship_cannot_afford_this": "对方买不起这个！",
+		"player_not_enough_credits": "你买不起这个！",
+		"no_credits_no_bribe": "没有足够的金钱！",
+		"no_communication_device": "你需要有通了电的通讯设备才能开始通讯。",
+		"no_crew_member_to_communicate": "没有通讯对象。",
+		"could_not_create_role": "无法设立这个职位。",
+
+		"follow_tutorial": "请阅读当前教程信息并照它说的做。"
+	},
+
+	"research": {
+		"start_project": "开始项目",
+		"stop_project": "中止项目",
+		"project_already_started": "项目一开始",
+		"requirements_not_met": "前置条件没有达成",
+		"already_completed": "项目完成",
+		"no_project_selected": "当前没有研究项目。",
+		"select_a_project": "在图标上选中一个研究项目后此处会出现更多信息。",
+		"required_research": "需要：",
+		"required_analysis": "需要：",
+		"unlocks": "解锁：",
+		"project_complete": "{project_name}已研究完成。"
+	},
+
+	"breathability_status": {
+		"excellent": "优",
+		"good": "良",
+		"high": "高",
+		"critically_high": "极高",
+		"dangerously_high": "过高",
+		"low": "低",
+		"critically_low": "极低",
+		"dangerously_low": "过低",
+		"suffocating": "正在窒息",
+		"toxic": "微毒",
+		"highly_toxic": "剧毒"
+	},
+
+	"loading_text": {
+		"powering_up": "开启能源中......",
+		"powering_down": "关闭能源中......",
+		"booting_systems": "启动系统中......",
+		"restarting_systems": "重启系统中......",
+		"building_core_data": "加载游戏本体中......",
+		"building_module_data": "加载模组中......",
+		"building_textures": "加载材质中......",
+		"world_grid_ready": "地图网格已就绪。",
+		"loading_game_world": "加载游戏世界中......",
+		"generating_initial_room": "加载初始房间中......"
+	},
+
+	"relation_text": {
+		"neutral": "中立",
+		"friendly": "友善",
+		"hostile": "敌对"
+	},
+
+	"grammar_engine": {
+		"male_pronoun": "他",
+		"female_pronoun": "她",
+		"other_pronoun": "他们",
+		"male_possessive": "他的",
+		"female_possessive": "她的",
+		"other_possessive": "他们的",
+		"male_reflexive": "他自己",
+		"female_reflexive": "她自己",
+		"other_reflexive": "他们自己",
+		"male_object": "他",
+		"female_object": "她",
+		"other_object": "他们"
+	},
+
+	"date": {
+		"st": "日",
+		"nd": "日",
+		"rd": "日",
+		"th": "日",
+		"month_1": "首季",
+		"month_2": "次季",
+		"month_3": "末季",
+		"time_display": "宇宙历：\n{year}年\n第{month}月（{month_text}）\n{day}日\n{hours}时",
+		"seconds": "秒",
+		"minutes": "分",
+		"hours": "时",
+		"days": "日",
+		"start_date": "{year}年{month}月{day}日"
+	},
+
+	"default": {
+		"no_string": "NO STRING"
+	},
+
+	"backstory": {
+		"health_state": "是一个{health_status}",
+		"joined_crew": "{pawn_name}于{year}年{month}月{day}日成为了你的船员。",
+		"age_gender_and_species_status": "是一个出生于{year}年{month}月{day}日的{gender}{species}。{pawn_reflexive_short}今年{age}岁了。***"
+	},
+
+	"debug": {
+		"fill": "填充",
+		"empty": "清空",
+		"min_add": "增加0.1",
+		"remove_item": "移除物品",
+		"remove_all_items": "移除所有物品",
+		"auto_build": "自动建造"
+	},
+
+	"state_text": {
+		"rotting": "正在腐烂",
+		"idle": "无所事事",
+		"awaiting_orders": "待命中",
+		"collapsed": "瘫倒在地",
+		"decomposing": "分解中"
+	},
+
+	"health_state": {
+		"healthy": "健康",
+		"unwell": "不适",
+		"wounded": "受伤",
+		"debilitated": "病弱",
+		"near_death": "濒死",
+		"dead": "死亡"
+	},
+
+	"priority": {
+		"will_not_do_it": "不做这类工作",
+		"low": "低优先级",
+		"medium": "中优先级",
+		"high": "高优先级",
+		"highest": "最高优先级"
+	},
+
+	"combat": {
+		"pawn_damaged_pawn": "以{part}将{pawn}的{victim_part}{damaged}了",
+		"pawn_missed_pawn": "尝试以{part}攻击了{pawn}的{victim_part}",
+		"is_mobile": "可移动",
+		"collapsed_reason": "{reason}倒下了",
+		"died_reason": "{reason}死了"
+	},
+
+	"storage_priority": {
+		"low": "低",
+		"medium": "中",
+		"high": "高"
+	},
+
+	"game_speed": {
+		"pause": "暂停",
+		"normal_speed": "一倍速",
+		"fast_speed": "三倍速",
+		"faster_speed": "五倍速"
+	},
+
+	"captain_creation": {
+		"the_captain": "舰长",
+
+		"choose_captain_gender": "每艘飞船都需要一个舰长，所以你现在要来创建你的舰长。你可以一直让他当舰长，也可以以后将这一职位给予他人。\n\n你的舰长的性别是......",
+		"gender": "性别",
+
+		"appearance": "外貌",
+		"captain_appearance": "你的舰长长这样......",
+
+		"Vitality": "年纪",
+		"rough_age": "你的舰长......",
+
+		"childhood": "童年",
+		"as_a_child": "你的舰长小时候特别......",
+
+		"adolescence": "青春期",
+		"growing_up_your_captain": "你的舰长在成长时......",
+
+		"profession": "职业",
+		"as_a_professional": "你的舰长所引以为傲的职业是......",
+
+		"starts_with": "开局物品"
+	}
+}

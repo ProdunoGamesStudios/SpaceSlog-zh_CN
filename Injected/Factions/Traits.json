@@ -1,0 +1,50 @@
+﻿{
+	"Farming": {
+		"title": "农业",
+		"description": "大部分{faction_name}的领土和人口都从事着农业生产。"
+	},
+	"Mining": {
+		"title": "矿物开采",
+		"description": "{faction_name}有着大量的各类矿物与稀有金属，所以他们将大量的资源用在了矿物的开采与冶炼上了。"
+	},
+	"Capitalist": {
+		"title": "资本家",
+		"description": "所有东西都是私有的，一切需求都是资本增长的好机会。"
+	},
+	"Unassimilable": {
+		"title": "名族主义",
+		"description": "这些人及其热衷于自己的势力与其建设，这些人无法被吸纳进入其他势力。"
+	},
+	"Explorer": {
+		"title": "拓荒",
+		"description": "{faction_name}的人们天性好奇，有着无尽的探索欲。"
+	},
+	"Rebellious": {
+		"title": "不服管教",
+		"description": "规矩就是用来打破的，尤其是在这里！"
+	},
+	"Psychotic": {
+		"title": "神经质",
+		"description": "什么是真实的，什么又是虚幻的？{faction_name}的人无法分清楚现实与虚幻。"
+	},
+	"Obtruder": {
+		"title": "传教士",
+		"description": "这些人不停地在向他人输出自己的理念与观点。"
+	},
+	"Defiant": {
+		"title": "违抗",
+		"description": "这些人完全不愿意商议贸易，也不会被贿赂。"
+	},
+	"Militar": {
+		"title": "军事化",
+		"description": "在这个残酷的宇宙中要想生存就必须有一支强大并训练有素的军队。"
+	},
+	"Mechanical": {
+		"title": "技术称 霸",
+		"description": "{faction_name}有着宇宙中最好的机械师与工程师。"
+	},
+	"Scientific": {
+		"title": "学究",
+		"description": "科学严谨的分析让这些人获得了比其他人更深的对这片星河的理解。"
+	}
+}

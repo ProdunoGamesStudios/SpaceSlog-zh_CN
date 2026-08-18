@@ -1,0 +1,194 @@
+{
+    "Roam": {
+        "title": "游荡",
+        "description": "四处游荡"
+    },
+    "Idle": {
+        "title": "无所事事",
+        "description": "找地方站着"
+    },
+    "Eat": {
+        "title": "进食",
+        "description": "正在吃{object_a}。"
+    },
+    "Drink": {
+        "title": "饮用",
+        "description": "正在喝{object_a}。"
+    },
+    "Clean": {
+        "title": "清理",
+        "description": "正在清理{object_a}。"
+    },
+    "Sleep": {
+        "title": "睡觉",
+        "description": "正在睡觉。"
+    },
+    "InvoluntarySleep": {
+        "title": "睡觉",
+        "description": "正在睡觉。"
+    },
+    "ForceMove": {
+        "title": "强制移动",
+        "description": "正在移动。"
+    },
+    "Pickup": {
+        "title": "捡起",
+        "description": "正在捡起{object_a}。"
+    },
+    "Haul": {
+        "title": "搬运",
+        "description": "正在搬运{object_a}。"
+    },
+    "Combine": {
+        "title": "合并",
+        "description": "正在合并{object_a}。"
+    },
+    "Refuel": {
+        "title": "添柴",
+        "description": "正在为{object_b}补充{object_a}。"
+    },
+    "MoveDeadPawn": {
+        "title": "搬运尸体",
+        "description": "正在处理{object_a}。"
+    },
+    "Equip": {
+        "title": "装备",
+        "description": "正在装备{object_a}。"
+    },
+    "UnEquip": {
+        "title": "卸下",
+        "description": "正在移除{object_a}。"
+    },
+    "CollectMaterials": {
+        "title": "采集资源",
+        "description": "正在采集{object_a}。"
+    },
+    "Strip": {
+        "title": "扒掉",
+        "description": "正在把{object_a}身上所有物品扒掉。"
+    },
+    "Deconstruct": {
+        "title": "拆除",
+        "description": "正在拆除{object_a}。"
+    },
+    "Repair": {
+        "title": "修理",
+        "description": "正在修复{object_a}。"
+    },
+    "Mine": {
+        "title": "挖掘",
+        "description": "正在挖掘{object_a}。"
+    },
+    "DestroyAsset": {
+        "title": "摧毁物品",
+        "description": "正在摧毁{object_a}。"
+    },
+    "HaulToRecipe": {
+        "title": "为配方找寻材料",
+        "description": "正在将{object_a}搬运到{object_b}。"
+    },
+    "Build": {
+        "title": "建造",
+        "description": "正在建造{object_a}。"
+    },
+    "Rescue": {
+        "title": "救援",
+        "description": "正在救援{object_b}。"
+    },
+    "RestUntilHealed": {
+        "title": "疗养",
+        "description": "正在休息。"
+    },
+    "UseEntertainment": {
+        "title": "游戏",
+        "description": "正在玩{object_a}。"
+    },
+    "SitAtChair": {
+        "title": "坐",
+        "description": "已坐下。"
+    },
+    "TendHeal": {
+        "title": "治疗",
+        "description": "正在给{object_b}用{object_a}治疗。"
+    },
+    "TendFeed": {
+        "title": "喂食",
+        "description": "正在把{object_a}喂给{object_b}。"
+    },
+    "TendHydrate": {
+        "title": "送水",
+        "description": "正在将{object_b}送给{object_a}饮用。"
+    },
+    "GetBackToShip": {
+        "title": "返回飞船",
+        "description": "正在往飞船走。"
+    },
+    "Butcher": {
+        "title": "屠宰",
+        "description": "正在屠宰{object_a}。"
+    },
+    "SowSeeds": {
+        "title": "种植",
+        "description": "正在种下{object_a}。"
+    },
+    "HarvestPlant": {
+        "title": "收获",
+        "description": "正在收获{object_a}。"
+    },
+    "HarvestBrew": {
+        "title": "收取",
+        "description": "正在收取{object_a}的产出。"
+    },
+    "CookRecipe": {
+        "title": "按照配方烹饪",
+        "description": "正在{object_a}处烹饪。"
+    },
+    "RefineRecipe": {
+        "title": "按照配方精炼",
+        "description": "正在{object_a}处精炼。"
+    },
+    "CraftRecipe": {
+        "title": "按照配方制作",
+        "description": "制作中。"
+    },
+    "SitOnCaptainsChair": {
+        "title": "坐船长椅",
+        "description": "朕要坐上朕的位置。"
+    },
+    "Breed": {
+        "title": "交配",
+        "description": "给{object_a}配了。"
+    },
+    "ResearchProject": {
+        "title": "研究项目",
+        "description": "寻思中。"
+    },
+    "ResearchAnalysis": {
+        "title": "研究分析",
+        "description": "分析中。"
+    },
+    "SelfTend": {
+        "title": "自疗",
+        "description": "正在用{object_a}为自己治疗。"
+    },
+    "HaulToPrefab": {
+        "title": "为建筑批量搬运物质",
+        "description": "正在搬运{object_a}到{object_b}。"
+    },
+    "HaulToStockpile": {
+        "title": "批量搬运到储物区域",
+        "description": "正在将{object_a}入库。"
+    },
+    "EnterCasket": {
+        "title": "进入冷冻舱",
+        "description": "正在进入{object_a}。"
+    },
+    "TakeToCasket": {
+        "title": "放入冷冻舱",
+        "description": "正在将{object_b}放入{object_a}。"
+    },
+    "OpenCasket": {
+        "title": "打开冷冻舱",
+        "description": "正在打开{object_a}。"
+    }
+}

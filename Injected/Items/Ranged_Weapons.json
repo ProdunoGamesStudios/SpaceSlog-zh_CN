@@ -1,0 +1,26 @@
+﻿{
+	"Pistol": {
+		"title": "手枪",
+		"description": "半自动的手枪能够快速响应危机，适合防身使用。"
+	},
+	"Revolver": {
+		"title": "转轮手枪",
+		"description": "威力较大的手枪，有个非常酷的转轮。"
+	},
+	"LeverActionRifle": {
+		"title": "杠杆式步枪",
+		"description": "使用杠杆机关上膛的步枪。"
+	},
+	"AssaultRifle": {
+		"title": "突击步枪",
+		"description": "军用的连发步枪。"
+	},
+	"SubMachineGun": {
+		"title": "冲锋枪",
+		"description": "适合近距离作战的轻型自动枪械。"
+	},
+	"Shotgun": {
+		"title": "霰弹枪",
+		"description": "需要放在肩膀上发射的大口径枪械，其子弹包含多个投射物。"
+	}
+}

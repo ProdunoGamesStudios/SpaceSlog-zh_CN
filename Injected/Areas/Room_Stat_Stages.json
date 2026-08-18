@@ -1,0 +1,46 @@
+﻿{
+	"Spotless": {
+		"title": "无尘",
+		"description": "这个房间及其干净，没有半点尘垢。"
+	},
+	"Clean": {
+		"title": "干净",
+		"description": "这个房间大体上较为洁净，没有很多污垢。"
+	},
+	"Dirty": {
+		"title": "不洁",
+		"description": "这个房间有些不洁，需要清理一下。"
+	},
+	"Filthy": {
+		"title": "肮脏",
+		"description": "这个房间污臭不堪，非常需要清洁。"
+	},
+	"Cramped": {
+		"title": "逼仄",
+		"description": "这个房间空间非常小。"
+	},
+	"Tight": {
+		"title": "狭小",
+		"description": "在这个房间里有些转不开身。"
+	},
+	"Cluttered": {
+		"title": "拥挤",
+		"description": "这个房间稍微有些拥挤。"
+	},
+	"Ample": {
+		"title": "有余",
+		"description": "这个房间大小适中。"
+	},
+	"Spacious": {
+		"title": "宽阔",
+		"description": "这个房间空间宽广。"
+	},
+	"VerySpacious": {
+		"title": "极大",
+		"description": "这个房间空间极大。"
+	},
+	"Expansive": {
+		"title": "无垠",
+		"description": "这个房间广阔无垠。"
+	}
+}

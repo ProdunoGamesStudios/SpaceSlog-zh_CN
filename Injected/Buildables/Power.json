@@ -1,0 +1,26 @@
+﻿{
+	"Cables": {
+		"title": "输电缆",
+		"description": "连接电源与用电器的连接器。"
+	},
+	"SmallGenerator": {
+		"title": "小型发电机",
+		"description": "通过消耗核燃料中的钚产生少量电能。"
+	},
+	"LargeGenerator": {
+		"title": "大型发电机",
+		"description": "通过消耗核燃料中的钚产生大量电能。这台发电机不仅发电量堪比多台小型发电机，还比他们的能量转换效率高10%。"
+	},
+	"SmallSolarPanel": {
+		"title": "小型太阳能板",
+		"description": "在如恒星之类的自然光源的照射下产生少量电能。"
+	},
+	"LargeSolarPanel": {
+		"title": "大型太阳能板",
+		"description": "在如恒星之类的自然光源的照射下产生大量电能。"
+	},
+	"Battery": {
+		"title": "电池",
+		"description": "在电能盈余时储存多余电能，并在电网缺电时将电能释放回电网。建议最好尽早建造至少一颗电池在你的飞船上。"
+	}
+}

@@ -1,0 +1,30 @@
+﻿{
+	"MetalHull": {
+		"title": "船体结构",
+		"description": "船体的基础结构与外壳。要想搭建房间，必须先建造船体结构，再在其之上建造结构地板。"
+	},
+	"MetalFloor": {
+		"title": "结构地板",
+		"description": "铺设于船体内部的地板。必须建造在船体结构上。"
+	},
+	"BlastDoor": {
+		"title": "气闸门",
+		"description": "手动的带气闸的门，不会向外太空泄露空气。"
+	},
+	"AutoBlastDoor": {
+		"title": "自动气闸门",
+		"description": "自动的气密舱门，不会向外太空泄露空气，在未通电时开/关门会慢一些。"
+	},
+	"ArmouredBlastDoor": {
+		"title": "装甲气闸门",
+		"description": "加装了装甲的自动的气密舱门，不会向外太空泄露空气，在未通电时开/关门会慢一些。"
+	},
+	"MetalHullCorner": {
+		"title": "装甲船体外壳",
+		"description": "在船体外部使用的装甲外壳，结构上使用多孔轻量化设计，所以并不气密。"
+	},
+	"MetalHullAngle": {
+		"title": "装甲船体外壳",
+		"description": "在船体外部使用的装甲外壳，结构上使用多孔轻量化设计，所以并不气密。"
+	}
+}

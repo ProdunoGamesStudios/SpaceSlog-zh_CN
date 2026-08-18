@@ -1,0 +1,18 @@
+﻿{
+	"SpaceHelmet": {
+		"title": "宇航头盔",
+		"description": "EVA（Extra-Vehicular Activity-舱外活动）服的一部分，配上宇航服才能发挥全部功能，穿着这个会很难受。"
+	},
+	"CowboyHat": {
+		"title": "牛仔帽",
+		"description": "既美观又实用，可以阻挡烈日与风沙。"
+	},
+	"BeanieHat": {
+		"title": "毛帽",
+		"description": "能够提供很好的头部保暖。"
+	},
+	"CombatHelmet": {
+		"title": "战术头盔",
+		"description": "能在战斗中保护头部的硬质头盔。"
+	}
+}

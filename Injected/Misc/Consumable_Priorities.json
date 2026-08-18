@@ -1,0 +1,26 @@
+{
+	"QualityMeal": {
+        "title": "大餐"
+	},
+	"BasicMeal": {
+        "title": "普通的一餐"
+	},
+	"Cooked": {
+        "title": "熟食"
+	},
+	"Raw": {
+        "title": "生食"
+	},
+	"AnimalFeed": {
+        "title": "饲料"
+	},
+	"Cannibal": {
+        "title": "人肉"
+	},
+	"Alcoholic": {
+        "title": "含酒精"
+	},
+	"Nothing": {
+        "title": "无"
+	}
+}

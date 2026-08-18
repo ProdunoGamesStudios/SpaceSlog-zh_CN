@@ -1,0 +1,42 @@
+﻿{
+	"GeneralRoom": {
+		"title": "泛用途房间",
+		"description": "一个常见的多功能房间。"
+	},
+	"Quarters": {
+		"title": "船员宿舍",
+		"description": "指定船员的私人生活空间\n\n容纳人数取决于床位。"
+	},
+	"GrowRoom": {
+		"title": "培植间",
+		"description": "专门用来生产水果、蔬菜、以及其他作物的空间。"
+	},
+	"Brig": {
+		"title": "囚室",
+		"description": "专门关押囚徒的地方。"
+	},
+	"MessHall": {
+		"title": "食堂",
+		"description": "专门做饭吃饭的地方"
+	},
+	"Bridge": {
+		"title": "舰桥",
+		"description": "这里是飞船的导航与指挥中枢。"
+	},
+	"SickBay": {
+		"title": "医务室",
+		"description": "照料生病以及受伤船员的地方。"
+	},
+	"CargoBay": {
+		"title": "货舱",
+		"description": "专门存放货品与物资的地方。"
+	},
+	"EngineRoom": {
+		"title": "发动舱室",
+		"description": "包含飞船的引擎与相关机械的空间。"
+	},
+	"LifeSupport": {
+		"title": "生命支持",
+		"description": "这个房间容纳着飞船的空气与环境维持系统。"
+	}
+}

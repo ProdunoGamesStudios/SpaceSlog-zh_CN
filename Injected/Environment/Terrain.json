@@ -1,0 +1,29 @@
+﻿{
+	"Sand": {
+		"title": "沙子"
+	},
+	"Mud": {
+		"title": "泥浆"
+	},
+	"Rock": {
+		"title": "岩石"
+	},
+	"Soil": {
+		"title": "泥土"
+	},
+	"Gravel": {
+		"title": "沙砾"
+	},
+	"ShallowWater": {
+		"title": "浅水"
+	},
+	"DeepWater": {
+		"title": "深水"
+	},
+	"Magma": {
+		"title": "熔岩"
+	},
+	"Ice": {
+		"title": "冰"
+	}
+}

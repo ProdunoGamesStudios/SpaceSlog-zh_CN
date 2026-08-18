@@ -1,0 +1,11 @@
+﻿{
+	"SmallArmsRound": {
+		"title": "小型枪械子弹"
+	},
+	"ArmourPiercingRound": {
+		"title": "穿甲弹"
+	},
+	"ShotgunRound": {
+		"title": "霰弹"
+	}
+}

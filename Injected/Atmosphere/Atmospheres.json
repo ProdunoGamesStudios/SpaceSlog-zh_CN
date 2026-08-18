@@ -1,0 +1,14 @@
+﻿{
+	"None": {
+		"title": "无空气",
+		"description": "这里不支持气压：这里的气体几乎不存在。"
+	},
+	"Empty": {
+		"title": "待填充",
+		"description": "这里可以容纳空气，但你要自己用气体填充这里。"
+	},
+	"EarthLike": {
+		"title": "与地球相似",
+		"description": "这里的空气与地球大气相似。"
+	}
+}

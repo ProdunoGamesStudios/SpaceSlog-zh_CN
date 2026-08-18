@@ -1,0 +1,18 @@
+﻿{
+	"Player": {
+		"title": "玩家势力",
+		"description": "这是玩家的势力。"
+	},
+	"Reavers": {
+		"title": "劫掠者",
+		"description": "本是来自文明世界的一族人，在文明的边缘堕入了疯狂。"
+	},
+	"Pirates": {
+		"title": "海盗",
+		"description": "被社会抛弃与遗忘，现在他们为了活下去必须掠夺所有可以掠夺的东西。"
+	},
+	"SplinterFaction": {
+		"title": "分裂势力",
+		"description": "从某个势力分裂出来的势力，兜兜转转来到了这片太空。"
+	}
+}

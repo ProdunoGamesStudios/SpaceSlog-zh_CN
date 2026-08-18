@@ -1,0 +1,17 @@
+﻿{
+	"PeoplePerson": {
+		"title": "社交达人",
+		"description": "{pawn_name}非常会社交并且喜欢人多热闹的地方。某些人认为{pawn_pronoun}是一个天生的领袖，{pawn_pronoun}能掌控他所参加的每一场派对，到哪都能交到朋友。",
+		"info_text": "开局额外携带两名船员。"
+	},
+	"EasyGoing": {
+		"title": "友善",
+		"description": "{pawn_name}比较友善并能与大多数人交好。若能与他人同行，{pawn_pronoun}一般都不会独自前行。",
+		"info_text": "开局额外携带一名船员。"
+	},
+	"Loner": {
+		"title": "独狼",
+		"description": "若能避免社交，{pawn_name}往往会独自呆着。{pawn_reflexive}打理着所有事情以避免与社会接触。{pawn_reflexive_short}觉得发动机隐约的嗡鸣声比船员们的聊天更能接受。",
+		"info_text": "孤身一人开局。"
+	}
+}

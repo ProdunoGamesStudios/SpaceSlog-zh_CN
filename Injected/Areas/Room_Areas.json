@@ -1,0 +1,14 @@
+﻿{
+	"External": {
+		"title": "室外"
+	},
+	"Space": {
+		"title": "外太空"
+	},
+	"Door": {
+		"title": "门"
+	},
+	"Room": {
+		"title": "房间"
+	}
+}

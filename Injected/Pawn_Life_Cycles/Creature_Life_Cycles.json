@@ -1,0 +1,20 @@
+{
+    "AdultRat": {
+		"title": "老鼠"
+	},
+	"Chick": {
+		"title": "雏鸡"
+	},
+    "Pullet": {
+        "title": "小母鸡"
+    },
+	"Hen": {
+		"title": "母鸡"
+	},
+	"Cockerel": {
+		"title": "小公鸡"
+	},
+	"Rooster": {
+		"title": "公鸡"
+	}
+}

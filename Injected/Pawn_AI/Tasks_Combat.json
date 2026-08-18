@@ -1,0 +1,32 @@
+{
+    "ReserveCombatTarget": {
+        "title": "Reserve combat target"
+    },
+    "FollowAndMelee": {
+        "title": "Follow and melee"
+    },
+    "FinishWithMeleeWeapon": {
+        "title": "Finish with melee"
+    },
+    "FinishOffNoWeapon": {
+        "title": "Finish off"
+    },
+    "FollowAndShoot": {
+        "title": "Follow and shoot"
+    },
+    "Shoot": {
+        "title": "Shoot"
+    },
+    "MeleeBuilding": {
+        "title": "Melee building"
+    },
+    "Melee": {
+        "title": "Melee"
+    },
+    "SecureAsPrisoner": {
+        "title": "Restrain"
+    },
+    "Slaughter": {
+        "title": "Slaughter"
+    }
+}

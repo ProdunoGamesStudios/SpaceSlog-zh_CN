@@ -1,0 +1,26 @@
+{
+    "Debug": {
+        "title": "Debug"
+    },
+    "Tile": {
+        "title": "格子"
+    },
+    "Edge": {
+        "title": "边界"
+    },
+    "Range": {
+        "title": "范围"
+    },
+    "Room": {
+        "title": "房间"
+    },
+    "Zone": {
+        "title": "区域"
+    },
+    "Chevron": {
+        "title": "臂章"
+    },
+    "Blueprint": {
+        "title": "蓝图"
+    }
+}

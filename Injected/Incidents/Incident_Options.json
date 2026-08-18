@@ -1,0 +1,47 @@
+﻿{
+	"PassingShip": {
+		"title": "路过飞船"
+	},
+	"PassingShipPhysical": {
+		"title": "路过飞船***"
+	},
+	"AsteroidField": {
+		"title": "小行星带"
+	},
+	"BattleDebris": {
+		"title": "战场遗存"
+	},
+	"CryoChamber": {
+		"title": "发现冷冻舱"
+	},
+	"HostileCreatureAssault": {
+		"title": "敌对生物攻击"
+	},
+	"PassingShipRescue": {
+		"title": "路过飞船救援"
+	},
+	"PassingPlanet": {
+		"title": "路过行星"
+	},
+	"PassingStar": {
+		"title": "路过恒星"
+	},
+	"PassingStarHot": {
+		"title": "路过恒星（高温）"
+	},
+	"Infestation": {
+		"title": "病虫害"
+	},
+	"MayDayPawn": {
+		"title": "求援者"
+	},
+	"AbandonedFacility": {
+		"title": "遗弃设施"
+	},
+	"HostileSwarm": {
+		"title": "敌人成群而至"
+	},
+	"TransportShipAssault": {
+		"title": "遭受袭击"
+	}
+}

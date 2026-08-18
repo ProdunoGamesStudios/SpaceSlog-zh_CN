@@ -1,0 +1,34 @@
+﻿{
+	"SpaceSuit": {
+		"title": "宇航服",
+		"description": "EVA（Extra-Vehicular Activity-舱外活动）服的一部分，配上头盔才能发挥全部功能。EVA服内置气瓶和换气器，可以消除废气，但是要穿着EVA服睡觉的话会很难受。"
+	},
+	"JumpSuit": {
+		"title": "连衣裤",
+		"description": "将上肢与下肢都覆盖的衣服，通常被用来避免贴身衣物被弄脏。"
+	},
+	"FlakVest": {
+		"title": "防弹背心",
+		"description": "以多层高性能纤维防弹的背心，可以有效减少投射物造成的伤害。"
+	},
+	"Jacket": {
+		"title": "夹克",
+		"description": "能够很好地覆盖身体上半身的衣物。"
+	},
+	"DusterJacket": {
+		"title": "防尘大衣",
+		"description": "更长的，能够遮掩整个身体夹克。"
+	},
+	"Jeans": {
+		"title": "长裤",
+		"description": "舒适的裤子。"
+	},
+	"Shirt": {
+		"title": "衬衣",
+		"description": "舒适的上衣。"
+	},
+	"CombatShirt": {
+		"title": "战术衫",
+		"description": "衣料强度更高的上衣。"
+	}
+}

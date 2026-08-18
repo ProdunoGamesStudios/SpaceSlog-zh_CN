@@ -1,0 +1,164 @@
+{
+    "Hungry": {
+        "title": "Is hungry"
+    },
+    "Thirsty": {
+        "title": "Is thirsty"
+    },
+    "Tired": {
+        "title": "Is tired"
+    },
+    "HasFood": {
+        "title": "Has food available"
+    },
+    "HasDrink": {
+        "title": "Has drink available"
+    },
+    "Fallback": {
+        "title": "Fallback"
+    },
+    "HasPrefab": {
+        "title": "Something needs building"
+    },
+    "HasRepairable": {
+        "title": "Something needs repairing"
+    },
+    "HasDirt": {
+        "title": "Something needs cleaning"
+    },
+    "HasFire": {
+        "title": "Fire needs extinguishing"
+    },
+    "ThingToHaul": {
+        "title": "Something needs hauling"
+    },
+    "ThingToCombine": {
+        "title": "Something needs combining"
+    },
+    "NeedsMatsPrefab": {
+        "title": "Has materials"
+    },
+    "NeedsMatsRecipe": {
+        "title": "Has materials"
+    },
+    "HasDeconstruction": {
+        "title": "Something needs deconstructing"
+    },
+    "HasMineable": {
+        "title": "Something needs mining"
+    },
+    "SomewhereToSleep": {
+        "title": "Has somewhere to sleep"
+    },
+    "SomewhereToRestAndHeal": {
+        "title": "Has somewhere to rest and heal"
+    },
+    "PawnNeedsRescue": {
+        "title": "A Pawn needs rescuing"
+    },
+    "IsGreedy": {
+        "title": "Is greedy"
+    },
+    "IsNotFearless": {
+        "title": "Is not fearless"
+    },
+    "SomewhereToRoam": {
+        "title": "Has somewhere to roam"
+    },
+    "MyHealth": {
+        "title": "My health"
+    },
+    "TargetHealth": {
+        "title": "Targets health"
+    },
+    "ThingNeedsRefuelling": {
+        "title": "Something needs refuelling"
+    },
+    "DeadPawn": {
+        "title": "A dead pawn needs moving"
+    },
+    "EquipSpacesuit": {
+        "title": "Needs to equip a spacesuit"
+    },
+    "HasFullPressuredSuit": {
+        "title": "Has full pressured suit"
+    },
+    "IsCaptain": {
+        "title": "Is captain"
+    },
+    "HasEntertainment": {
+        "title": "Has some entertainment to play."
+    },
+    "PawnNeedsHealing": {
+        "title": "A pawn needs healing"
+    },
+    "CrewNeedsFeeding": {
+        "title": "A crew member needs feeding"
+    },
+    "AnimalNeedsFeeding": {
+        "title": "An animal needs feeding"
+    },
+    "CrewNeedsHydrating": {
+        "title": "A crew member needs hydrating"
+    },
+    "AnimalNeedsHydrating": {
+        "title": "An animal needs hydrating"
+    },
+    "PrefabObstruction": {
+        "title": "An obstruction needs moving"
+    },
+    "Aggroed": {
+        "title": "Are we aggroed?"
+    },
+    "IsNotPlayerEntity": {
+        "title": "Are we a player entity?"
+    },
+    "SomethingToSow": {
+        "title": "Is there something to sow?"
+    },
+    "SomethingToHarvest": {
+        "title": "Is there something to harvest?"
+    },
+    "SomethingToHarvestRecipe": {
+        "title": "Is there a recipe finished to harvest?"
+    },
+    "ThingToHunt": {
+        "title": "Does something need hunting?"
+    },
+    "CanRestrainTarget": {
+        "title": "Can we restrain the target?"
+    },
+    "HasCaptainsChair": {
+        "title": "Do we have a captain's chair?"
+    },
+    "HasResearchStation": {
+        "title": "Do we have a research station?"
+    },
+    "HasResearchAnalysisBench": {
+        "title": "Do we have a research analysis bench?"
+    },
+    "IsShipMoving": {
+        "title": "Is the ship moving?"
+    },
+    "HasBreedingPartner": {
+        "title": "Has a breeding partner"
+    },
+    "HasResearchProject": {
+        "title": "Has a research project"
+    },
+    "HasResearchAnalysis": {
+        "title": "Has a research analysis"
+    },
+    "SomethingToBrew": {
+        "title": "Something needs brewing"
+    },
+    "SomethingToRefine": {
+        "title": "Something needs refining"
+    },
+    "SomethingToCook": {
+        "title": "Something needs cooking"
+    },
+    "SomethingToCraft": {
+        "title": "Something needs crafting"
+    }
+}

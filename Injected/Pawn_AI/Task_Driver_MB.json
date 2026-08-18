@@ -1,0 +1,18 @@
+{
+    "Tantrum": {
+        "title": "发泄",
+        "description": "翻滚打闹中。"
+    },
+    "Delirious": {
+        "title": "晕眩",
+        "description": "头晕且迷糊。"
+    },
+    "Catatonic": {
+        "title": "应激",
+        "description": "紧张过度了。"
+    },
+    "Breakdown": {
+        "title": "崩溃",
+        "description": "精神崩溃了。"
+    }
+}

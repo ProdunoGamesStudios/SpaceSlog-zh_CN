@@ -1,0 +1,17 @@
+﻿{
+	"YoungAge": {
+		"title": "年轻",
+		"description": "{pawn_name}年轻而富有活力，或许也稍微有点稚嫩。由于阅历不够{pawn_pronoun}有时会觉得{pawn_reflexive}所面对的事情超出了{pawn_possessive}的能力范围。\n\n你舰长的年轻一方面意味着{pawn_pronoun}还潜能未掘，在许多事上都还需学习，但另一方面也意味着{pawn_pronoun}会更加年轻力壮，免疫系统与恢复能力都要比年纪大的人强一些：{pawn_reflexive_short}生病或受伤的概率比其他人更小。",
+		"info_text": "初始技能等级降低，更不容易生病或受伤，移速提升。"
+	},
+	"MiddleAge": {
+		"title": "中年",
+		"description": "{pawn_name}正处中年，{pawn_pronoun}更有经验且较为能干，丰富的阅历使他可以应对大部分事情。\n\n你中年的舰长的技能等级和身体条件十分平衡。{pawn_name}大体上是健康的，但岁月的痕迹以及开始显现，所以会比年轻人更容易得病或受伤。",
+		"info_text": "初始技能等级不多不少，对生病或受伤没有额外抗性，移速不变。"
+	},
+	"OldAge": {
+		"title": "老年",
+		"description": "{pawn_name}年迈而明慧。但像其他上了年纪的人一样，{pawn_name}骨头上的疼痛一开始折磨这位老人，但能在这么困难的环境里活到这把年纪，你的舰长一定有着自己的过人之处。\n\n{pawn_name}的年纪虽带来了更高的技能等级，但{pawn_possessive}的身体机能与免疫系统也不如从前了：{pawn_reflexive_short}比较容易生病或受伤。",
+		"info_text": "初始技能等级增加，更容易生病或受伤，移速下降。"
+	}
+}

@@ -1,0 +1,34 @@
+﻿{
+	"Dirt": {
+		"title": "尘土",
+		"description": "尘污与土灰之类的东西。"
+	},
+	"Slime": {
+		"title": "粘液",
+		"description": "恶心而黏糊的东西。"
+	},
+	"Puke": {
+		"title": "呕吐物",
+		"description": "含有块状物的胃液。"
+	},
+	"BodilyFluids": {
+		"title": "体液",
+		"description": "黏黏的透明体液。"
+	},
+	"Ash": {
+		"title": "灰烬",
+		"description": "火焰留下的细粉状痕迹。"
+	},
+	"Rubble": {
+		"title": "碎料",
+		"description": "被拆解或摧毁的建筑物所遗留下的废料。"
+	},
+	"RottenFlesh": {
+		"title": "腐肉",
+		"description": "一坨正在腐烂的有机物。"
+	},
+	"Blood": {
+		"title": "血液",
+		"description": "某种生物流的血。"
+	}
+}

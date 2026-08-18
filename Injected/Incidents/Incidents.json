@@ -1,0 +1,59 @@
+﻿{
+	"PassingShip": {
+		"title": "路过飞船",
+		"description": "我们通过对周遭的扫描发现了一艘正在靠近的飞船，不久后将会进入通讯范围。"
+	},
+	"PassingShipPhysical": {
+		"title": "路过飞船***",
+		"description": "我们通过对周遭的扫描发现了一艘正在靠近的飞船，不久后将会进入通讯范围。***"
+	},
+	"Asteroids": {
+		"title": "小行星带",
+		"description": "我们正在经过一片小行星带。我们可以退出高速飞行模式来开采这些小行星，但要小心掩藏于其中的寄生虫和疫病。"
+	},
+	"Debris": {
+		"title": "残骸",
+		"description": "我们正在经过某种残骸，可以退出高速飞行模式来在其中翻找一番。拆解残骸可以获得物资，也可能有潜在的幸存者，但我们必须对这里可能存在的海盗保持警惕。"
+	},
+	"CryoChamber": {
+		"title": "冷冻舱",
+		"description": "附近似乎有个冷冻舱在太空中漂流，我们可以看看里面是否有人。"
+	},
+	"HostileCreatureAssault": {
+		"title": "遭受袭击"
+	},
+	"PassingShipRescue": {
+		"title": "Passing ship rescue",
+		"description": "我们通过对周遭的扫描发现了一艘正在靠近的飞船，不久后将会进入通讯范围。***"
+	},
+	"PassingPlanet": {
+		"title": "路过行星",
+		"description": "检测到附近有颗行星。"
+	},
+	"PassingStar": {
+		"title": "路过恒星",
+		"description": "检测到附近有颗恒星。"
+	},
+	"PassingStarHot": {
+		"title": "Passing star hot",
+		"description": "检测到附近有颗恒星。"
+	},
+	"Infestation": {
+		"title": "病虫害"
+	},
+	"MayDayPawn": {
+		"title": "求援",
+		"description": "你已经走得太远了，无法在停下并救援{pawn}。"
+	},
+	"AbandonedFacility": {
+		"title": "被遗弃的设施",
+		"description": "附近检测到一个被遗弃的设施，我们可以退出高速飞行模式并探索一下。"
+	},
+	"HostileSwarm": {
+		"title": "敌人成群而至",
+		"description": "成群的{pawn}进入了这片星域。"
+	},
+	"TransportShipAssault": {
+		"title": "遭受袭击"
+	}
+}

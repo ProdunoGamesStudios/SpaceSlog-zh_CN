@@ -1,0 +1,22 @@
+﻿{
+	"Oxygen": {
+		"title": "氧气",
+		"description": "大部分类人生物与很多其他生命体都呼吸氧气。"
+	},
+	"Nitrogen": {
+		"title": "氮气",
+		"description": "氮元素在这片太空很常见，存在于大多数有机物中。"
+	},
+	"CarbonDioxide": {
+		"title": "二氧化碳",
+		"description": "二氧化碳是大多数类人生物和其他生命体的呼吸副产物。"
+	},
+	"Hazardous": {
+		"title": "有害的",
+		"description": "有害气体泛指对大多数生命有害的，如有毒气体等的气体。"
+	},
+	"Explosive": {
+		"title": "爆炸性",
+		"description": "这里的爆炸性气体是易燃易爆气体的统称。"
+	}
+}

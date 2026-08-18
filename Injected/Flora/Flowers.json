@@ -1,0 +1,14 @@
+﻿{
+	"FlowersA": {
+		"title": "粉色花朵",
+		"description": "粉色的花。"
+	},
+	"FlowersB": {
+		"title": "花朵",
+		"description": "花。"
+	},
+	"FlowersC": {
+		"title": "白色花朵",
+		"description": "白色的花。"
+	}
+}

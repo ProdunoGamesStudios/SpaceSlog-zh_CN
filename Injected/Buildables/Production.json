@@ -1,0 +1,42 @@
+﻿{
+	"Transponder": {
+		"title": "应答器",
+		"description": "有了应答器才能建造大部分设施及被其他飞船发现。内置一颗最大功率90瓦的备用电池，会在其所连接的电网缺电时放电。"
+	},
+	"CommConsole": {
+		"title": "通讯设备",
+		"description": "与其他飞船通讯所必要的设施。"
+	},
+	"SmallThruster": {
+		"title": "小型推进器",
+		"description": "启动后产生少量推进力。"
+	},
+	"MediumThruster": {
+		"title": "中型推进器",
+		"description": "启动后产生可观的推进力。"
+	},
+	"LargeThruster": {
+		"title": "大型推进器",
+		"description": "启动后产生大量推进力。"
+	},
+	"Aeroponics": {
+		"title": "气培设备",
+		"description": "以高端科技产生所需二氧化碳并支持植物以最快速度生长。若不通电，设备内的作物将开始腐烂。"
+	},
+	"Refinery": {
+		"title": "精炼设备",
+		"description": "将自然资源精炼成其他资源的设备，可将材料中的杂质去除。"
+	},
+	"ElectricCooker": {
+		"title": "电磁炉",
+		"description": "用电来烹煮食物的设施。"
+	},
+	"ResearchStation": {
+		"title": "研究台",
+		"description": "研究各种研究项目以解锁新的科技与改良。"
+	},
+	"ResearchAnalysisBench": {
+		"title": "研究分析台",
+		"description": "在此处解剖，拆解并分析各种物品可在更深层次洞见其结构与功能，可用于解锁更多研究项目。"
+	}
+}

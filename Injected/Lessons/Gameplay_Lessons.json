@@ -1,0 +1,34 @@
+﻿{
+	"Rooms": {
+		"title": "房间",
+		"description": "[color=LIGHT_GREEN]双击[/color]或在房间地面{alternate_select} + {select}来选中房间。\n\n选择房间后会出现一个界面，可以查看更多房间信息或为房间改名。\n\n在此界面里你也可以指定房间种类，如将其指定为宿舍以供船员休息。"
+	},
+	"BrewingAtABarrelStep1": {
+		"title": "制作食物与饮品",
+		"description": "[color=KHAKI]圆桶[/color]可以制作诸多食物与饮品。\n\n欲使用[color=KHAKI]圆桶[/color]，请其界面上的按下[img=0]按钮，然后选择[color=PURPLE]订单[/color]，在新出现的界面上选择配方及制作数量。\n\n选好之后，按下[color=PURPLE]下单[/color]按钮，随即就可以等待船员制作订单了。\n\n注：请确保[color=KHAKI]圆桶[/color]处于允许交互状态。"
+	},
+	"TransponderStep1":{
+		"title": "应答器",
+		"description": "[color=KHAKI]应答器[/color]是飞船的核心，大部分时候你都应该确保其处于工作状态。没有处于工作状态的[color=KHAKI]应答器[/color]的话，其他飞船将无法探查到你。\n\n每个[color=KHAKI]应答器[/color]都包含一个备用电池，会在电网缺电时自动放电。但这个电池输出功率将只有[color=YELLOW]90瓦[/color]，只能够为应答器自身与一台[color=KHAKI]通讯设备[/color]供电。\n\n除了[color=KHAKI]飞船结构[/color]和[color=KHAKI]结构地板[/color]以外的建筑在没有[color=KHAKI]应答器[/color]时不可建造。"
+	},
+	"PawnsStep1":{
+		"title": "船员",
+		"description": "要想让[color=KHAKI]船员[/color]强制执行命令，要先在[color=PURPLE]角色[/color]界面的[color=PURPLE]命令[/color]图标[img=0]上按下{select}以确保对方处于听命状态。你可以用[color=PURPLE]背景[/color]界面（按下{action}以开启）来下达命令。[color=KHAKI]船员[/color]在执行命令时将不会进行日常活动。\n\n你可以用{cycle_pawns_forward}和{cycle_pawns_backward}来选中不同的[color=KHAKI]船员[/color]。"
+	},
+	"HuntingStep1":{
+		"title": "狩猎",
+		"description": "你可以通过狩猎其他生物获得食物与某些其他资源。\n\n要想狩猎，选择[color=PURPLE]指令[/color]界面中的[color=PURPLE]狩猎[/color]图标[img=0]，然后[color=LIGHT_GREEN]按下并拖拽[/color]以选中一片区域内的[color=KHAKI]生物[/color]。\n\n狩猎需要一个装备远程武器并被指定进行[color=PURPLE]狩猎[/color]工作的[color=KHAKI]船员[/color]。"
+	},
+	"GrowingFoodStep1":{
+		"title": "种粮",
+		"description": "有了适合种植的[color=KHAKI]种子[/color]（可从其他飞船购买），你就可以在[color=KHAKI]气培设备[/color]里种出食物。培养室内需要有足够的氧气，并且[color=KHAKI]气培设备[/color]需要通电且处于允许交互状态。\n\n作物长成后，你的[color=KHAKI]船员[/color]会去收获作物。\n\n收货时，作物的血量越高，得到的产出（包括种下一茬用的种子）就会越多。"
+	},
+	"CombatStep1":{
+		"title": "作战",
+		"description": "你的船员可能会需要经常作战。大部分战斗都需要你让船员进入听命状态并下达命令来微操。"
+	},
+	"SpaceSuits":{
+		"title": "EVA服",
+		"description": "很多生物出舱都需要穿戴EVA服。全套的EVA服包括一顶[color=KHAKI]头盔[/color]与一身[color=KHAKI]宇航服[/color]。\n\nEVA服内置了一个气瓶，会在穿戴者进入有氧气的房间内时自动充气。"
+	}
+}

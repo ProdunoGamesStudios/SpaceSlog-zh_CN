@@ -1,0 +1,22 @@
+﻿{
+	"Water": {
+		"title": "水",
+		"description": "将冰融化成水。"
+	},
+	"Wine": {
+		"title": "果酒",
+		"description": "将水和莓果放在一起发酵成酒。"
+	},
+	"VegetableBroth": {
+		"title": "蔬菜汤",
+		"description": "制作以药草调味的蔬菜汤。"
+	},
+	"BasicMeatBroth": {
+		"title": "无味肉汤",
+		"description": "制作没有调味的肉汤。"
+	},
+	"BoneBroth": {
+		"title": "高汤",
+		"description": "制作营养的高汤。"
+	}
+}

@@ -1,0 +1,26 @@
+﻿{
+	"WheatPlant": {
+		"title": "小麦",
+		"description": "长成后可以收获小麦。"
+	},
+	"RicePlant": {
+		"title": "稻米",
+		"description": "长成后可以收获大米。"
+	},
+	"PotatoPlant": {
+		"title": "土豆",
+		"description": "长成后可以收获土豆。"
+	},
+	"CarrotPlant": {
+		"title": "胡萝卜",
+		"description": "长成后可以收获胡萝卜。"
+	},
+	"HerbPlant": {
+		"title": "药草",
+		"description": "长成后可以收获药草。"
+	},
+	"HopsPlant": {
+		"title": "啤酒花",
+		"description": "长成后可以收获啤酒花。"
+	}
+}

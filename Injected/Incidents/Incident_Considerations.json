@@ -1,0 +1,35 @@
+﻿{
+	"IsPlayerShipMoving": {
+		"title": "你的飞船正在移动"
+	},
+	"IsPlayerShipStationary": {
+		"title": "你的飞船不在移动"
+	},
+	"AboveWealthThreshold20k": {
+		"title": "玩家的财富超过了这个界限吗？"
+	},
+	"AboveDistanceTravelled": {
+		"title": "玩家的累计移动距离超过了这个界限吗？"
+	},
+	"IsTransponderActive": {
+		"title": "玩家的应答器是开着的吗？"
+	},
+	"IsCommsConsoleActive": {
+		"title": "通讯设备是开着的吗？"
+	},
+	"PlayerPawnsCollapsedOrDead": {
+		"title": "是否所有玩家控制的人都已死亡或倒地？"
+	},
+	"StillFriendlyFaction": {
+		"title": "是否还存有对玩家友善的势力？"
+	},
+	"HasGainedCargoRecently": {
+		"title": "玩家的飞船近期得到了任何的物品吗？"
+	},
+	"HasTravelled": {
+		"title": "玩家移动过飞船吗？"
+	},
+	"IsSwarmsEnabled": {
+		"title": "这个难度选项是开启的吗？"
+	}
+}

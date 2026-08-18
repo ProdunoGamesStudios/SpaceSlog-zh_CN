@@ -1,0 +1,14 @@
+{
+    "HasAttackTarget": {
+        "title": "Do we have a target to attack?"
+    },
+    "HasRangedWeapon": {
+        "title": "Do we have a ranged weapon?"
+    },
+    "IsHostileEnemyNearby": {
+        "title": "Is there an enemy close by?"
+    },
+    "IsNotHostileEnemyNearby": {
+        "title": "Is there an enemy close by?"
+    }
+}

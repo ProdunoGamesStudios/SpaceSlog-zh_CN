@@ -1,0 +1,177 @@
+{
+	"BrainDamage": {
+		"title": "脑损伤"
+	},
+	"Haemorrhage": {
+		"title": "失血",
+		"description": "这个生物流了血，严重程度显示的是失血量：严重程度越高，此生物越快死亡。在止血后血液会缓慢恢复。",
+		"stages": {
+			"Minor": {
+				"title": "轻度"
+			},
+			"Moderate":{
+				"title": "中度"
+			},
+			"Major": {
+				"title": "重度"
+			},
+			"Severe": {
+				"title": "危险"
+			}
+		}
+	},
+	"Bruise": {
+		"title": "淤青",
+		"description": "由钝器击打导致的淤青。",
+		"stages": {
+			"Small": {
+				"title": "小"
+			},
+			"Large": {
+				"title": "大"
+			}
+		}
+	},
+	"Cut": {
+		"title": "割伤",
+		"description": "锐器划开的伤口。",
+		"stages": {
+			"Superficial": {
+				"title": "表皮伤"
+			},
+			"Small": {
+				"title": "小"
+			},
+			"Large":{
+				"title": "大"
+			}
+		}
+	},
+	"Puncture": {
+		"title": "刺伤",
+		"description": "锐器刺开的伤口。",
+		"stages": {
+			"Small": {
+				"title": "小"
+			},
+			"Medium": {
+				"title": "中"
+			},
+			"Large":{
+				"title": "大"
+			}
+		}
+	},
+	"Gunshot": {
+		"title": "枪伤",
+		"description": "子弹打出的伤口。",
+		"stages": {
+			"Small": {
+				"title": "小"
+			},
+			"Medium": {
+				"title": "中"
+			},
+			"Large":{
+				"title": "打"
+			}
+		}
+	},
+	"Bite": {
+		"title": "咬痕",
+		"description": "撕咬造成的伤口。",
+		"stages": {
+			"Small": {
+				"title": "小"
+			},
+			"Medium": {
+				"title": "中"
+			},
+			"Large":{
+				"title": "大"
+			}
+		}
+	},
+	"Scratch": {
+		"title": "抓痕",
+		"description": "被抓裂的伤口。",
+		"stages": {
+			"Superficial": {
+				"title": "表皮上"
+			},
+			"Small": {
+				"title": "小"
+			},
+			"Large":{
+				"title": "大"
+			}
+		}
+	},
+	"Stab": {
+		"title": "捅伤",
+		"description": "锐器捅入的伤口。",
+		"stages": {
+			"Small": {
+				"title": "小"
+			},
+			"Medium": {
+				"title": "中"
+			},
+			"Large":{
+				"title": "大"
+			}
+		}
+	},
+	"Gash": {
+		"title": "开口",
+		"description": "血肉被干劲利落地切开。",
+		"stages": {
+			"Superficial": {
+				"title": "表皮伤"
+			},
+			"Shallow": {
+				"title": "浅"
+			},
+			"Deep":{
+				"title": "深"
+			}
+		}
+	},
+	"Burn": {
+		"title": "烫伤",
+		"description": "高温造成的伤害。",
+		"stages": {
+			"Small": {
+				"title": "小"
+			},
+			"Large":{
+				"title": "大"
+			}
+		}
+	},
+	"Fracture": {
+		"title": "骨折",
+		"description": "这跟骨头受损了。",
+		"stages": {
+			"Small": {
+				"title": "小"
+			}
+		}
+	},
+	"Severance": {
+		"title": "断离",
+		"description": "这个部位被切走了。"
+	},
+	"Crushed": {
+		"title": "碾碎",
+		"description": "这个部位被碾碎了。"
+	},
+	"Destroyed": {
+		"title": "损毁",
+		"description": "这个部位被损毁了。"
+	},
+	"Slaughter": {
+		"title": "一刀毙命",
+		"description": "此生物被屠宰了。"
+	}
+}

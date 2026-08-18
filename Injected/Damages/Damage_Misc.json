@@ -1,0 +1,41 @@
+﻿{
+	"General": {
+		"title": "常规伤害"
+	},
+	"Slaughtered": {
+		"title": "屠宰"
+	},
+	"Mining": {
+		"title": "挖掘"
+	},
+	"Dehydration": {
+		"title": "缺水"
+	},
+	"Starvation": {
+		"title": "饥饿"
+	},
+	"Exhaustion": {
+		"title": "脱力"
+	},
+	"Suffocation": {
+		"title": "窒息"
+	},
+	"Rot": {
+		"title": "腐烂"
+	},
+	"Deteriorate": {
+		"title": "销蚀"
+	},
+	"OrganFailure": {
+		"title": "器官衰竭"
+	},
+	"Explosion": {
+		"title": "爆炸"
+	},
+	"Burn": {
+		"title": "烧伤"
+	},
+	"HighGforce": {
+		"title": "高加速度"
+	}
+}

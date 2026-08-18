@@ -1,0 +1,18 @@
+﻿{
+	"CactusTree": {
+		"title": "仙人掌",
+		"description": "一株仙人掌。"
+	},
+	"BirchTree": {
+		"title": "白桦树",
+		"description": "一棵白桦树。"
+	},
+	"FernTree": {
+		"title": "蕨类",
+		"description": "一株蕨类植物。"
+	},
+	"OakTree": {
+		"title": "橡树",
+		"description": "一棵橡树。"
+	}
+}

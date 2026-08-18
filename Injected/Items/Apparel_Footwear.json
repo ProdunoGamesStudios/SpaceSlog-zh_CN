@@ -1,0 +1,10 @@
+﻿{
+	"Shoes": {
+		"title": "鞋子",
+		"description": "普通而舒适的运动鞋。"
+	},
+	"Boots": {
+		"title": "靴子",
+		"description": "舒适的靴子，可以更好的保护脚踝。"
+	}
+}

@@ -1,0 +1,26 @@
+﻿{
+	"UraniumAsteroid": {
+		"title": "含铀小行星",
+		"description": "含有铀矿的小行星。铀的开采比较危险，因为可能会对附近的生态产生影响。"
+	},
+	"GoldAsteroid": {
+		"title": "含金小行星",
+		"description": "含有黄金的小行星。"
+	},
+	"TitaniumAsteroid": {
+		"title": "含钛小行星",
+		"description": "含有钛金属的小行星。"
+	},
+	"SiliconAsteroid": {
+		"title": "含硅小行星",
+		"description": "含有硅矿的小行星。"
+	},
+	"IceAsteroid": {
+		"title": "含冰小行星",
+		"description": "含有冰。"
+	},
+	"RockAsteroid": {
+		"title": "石质小行星",
+		"description": "含有岩石"
+	}
+}

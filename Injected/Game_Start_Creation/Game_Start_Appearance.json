@@ -1,0 +1,17 @@
+﻿{
+	"BodyTypes": {
+		"title": "身形"
+	},
+	"HairStyle": {
+		"title": "发型"
+	},
+	"FacialHairStyle": {
+		"title": "面部毛发"
+	},
+	"SkinColour": {
+		"title": "肤色"
+	},
+	"HairColour": {
+		"title": "发色"
+	}
+}

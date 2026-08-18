@@ -1,0 +1,35 @@
+{
+	"Meat": {
+        "title": "肉"
+	},
+	"Fruit": {
+        "title": "水果"
+	},
+	"Grain": {
+        "title": "谷类"
+	},
+	"Vegetable": {
+        "title": "蔬菜"
+	},
+	"AnimalProduce": {
+        "title": "动物产品"
+	},
+	"Fungus": {
+        "title": "真菌"
+	},
+	"Plant": {
+        "title": "植物"
+	},
+	"Corpse": {
+        "title": "尸体"
+	},
+	"Seed": {
+        "title": "种子"
+	},
+	"Rock": {
+        "title": "石头"
+	},
+	"Fluid": {
+        "title": "流体"
+	}
+}

@@ -1,0 +1,164 @@
+{
+    "Build": {
+        "title": "建造建筑物"
+    },
+    "Deconstruct": {
+        "title": "拆除建筑物"
+    },
+    "Repair": {
+        "title": "修复建筑物"
+    },
+    "Mine": {
+        "title": "开采小行星"
+    },
+    "Refuel": {
+        "title": "为建筑物添柴"
+    },
+    "Eat": {
+        "title": "进食"
+    },
+    "Drink": {
+        "title": "饮水"
+    },
+    "Sleep": {
+        "title": "睡觉"
+    },
+    "Roam": {
+        "title": "游荡"
+    },
+    "Idle": {
+        "title": "无所事事"
+    },
+    "StampFire": {
+        "title": 踩灭火焰"
+    },
+    "Clean": {
+        "title": "清理污秽"
+    },
+    "SelfTend": {
+        "title": "为自己治疗"
+    },
+    "RestUntilHealed": {
+        "title": "休息疗养"
+    },
+    "Rescue": {
+        "title": "救援友方倒下生物"
+    },
+    "Haul": {
+        "title": "搬运物资"
+    },
+    "Combine": {
+        "title": "合并物品"
+    },
+    "HaulObstruction": {
+        "title": "移走障碍"
+    },
+    "HaulToPrefab": {
+        "title": "为建筑搬运物质"
+    },
+    "HaulToRecipe": {
+        "title": "为配方找寻材料"
+    },
+    "FindAtmosphere": {
+        "title": "寻求可呼吸空气"
+    },
+    "FindSafeTemperature": {
+        "title": "寻求安全温度"
+    },
+    "DoGoodMood": {
+        "title": "Do good mood"
+    },
+    "DoSocial": {
+        "title": "社交"
+    },
+    "MoveDead": {
+        "title": "处理尸体"
+    },
+    "EquipSpacesuit": {
+        "title": "穿戴宇航服"
+    },
+    "ForceMove": {
+        "title": "强制移动"
+    },
+    "Equip": {
+        "title": "装备"
+    },
+    "UnEquip": {
+        "title": "卸下"
+    },
+    "Strip": {
+        "title": "扒除生物身上物品"
+    },
+    "DestroyAsset": {
+        "title": "摧毁物品"
+    },
+    "UseEntertainment": {
+        "title": "使用娱乐设施"
+    },
+    "SitAtChair": {
+        "title": "坐椅子"
+    },
+    "HealPawn": {
+        "title": "治疗病人或动物"
+    },
+    "FeedPatient": {
+        "title": "喂病人吃饭"
+    },
+    "HydratePatient": {
+        "title": "喂病人吃饭喝水"
+    },
+    "FeedAnimal": {
+        "title": "投喂动物"
+    },
+    "HydrateAnimal": {
+        "title": "为动物给水"
+    },
+    "Butcher": {
+        "title": "屠宰生物"
+    },
+    "Flee": {
+        "title": "逃跑"
+    },
+    "SowSeeds": {
+        "title": "种下植物"
+    },
+    "HarvestPlant": {
+        "title": "收获植物"
+    },
+    "HarvestBrew": {
+        "title": "取出产物"
+    },
+    "CookRecipe": {
+        "title": "烹饪配方"
+    },
+    "RefineRecipe": {
+        "title": "精炼配方"
+    },
+    "CraftRecipe": {
+        "title": "制作配方"
+    },
+    "ButcherAtTable": {
+        "title": "在桌子上屠宰"
+    },
+    "SitOnCaptainsChair": {
+        "title": "坐在船长椅中"
+    },
+    "Breed": {
+        "title": "交配"
+    },
+    "ResearchProject": {
+        "title": "研究项目"
+    },
+    "ResearchAnalysis": {
+        "title": "分析"
+    },
+    "EnterCasket": {
+        "title": "进入冷冻舱"
+    },
+    "TakeToCasket": {
+        "title": "放入冷冻舱"
+    },
+    "OpenCasket": {
+        "title": "开启冷冻仓"
+    }
+}

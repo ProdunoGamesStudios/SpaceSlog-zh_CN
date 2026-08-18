@@ -1,0 +1,26 @@
+﻿{
+	"PackagedMeal": {
+		"title": "盒装餐食",
+		"description": "制作一份开袋即食的密封营养餐。"
+	},
+	"BatchedPackagedMeal": {
+		"title": "批量盒装餐食",
+		"description": "批量制作开袋即食的密封营养餐。"
+	},
+	"TastyPackagedMeal": {
+		"title": "美味盒装餐食",
+		"description": "制作一份美味的盒装大餐。"
+	},
+	"BatchedTastyPackagedMeal": {
+		"title": "批量美味盒装餐食",
+		"description": "批量制作美味的盒装大餐。"
+	},
+	"CookedMeat": {
+		"title": "熟肉",
+		"description": "制作一份熟肉"
+	},
+	"BatchedCookedMeat": {
+		"title": "批量熟肉",
+		"description": "批量制作熟肉"
+	}
+}

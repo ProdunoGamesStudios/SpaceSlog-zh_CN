@@ -1,0 +1,42 @@
+﻿{
+	"StrandedShipParts": {
+		"title": "船体结构未连接",
+		"description": "一部分船体未连接到飞船上。\n\n任何未连接的[color=KHAKI]船体结构[/color]或[color=KHAKI]其他建筑[/color]在进入[color=KHAKI]高速飞行模式时[/color]都会被遗弃。"
+	},
+	"PlaceFloorLesson": {
+		"title": "结构地板",
+		"description": "[color=KHAKI]结构地板[/color]只能放置在[color=KHAKI]船体结构[/color]上。请确认你想要铺设[color=KHAKI]结构地板[/color]的地方都有[color=KHAKI]船体结构[/color]。"
+	},
+	"PlaceHullMountedBuilding": {
+		"title": "外壳搭载建筑",
+		"description": "[color=KHAKI]外壳搭载建筑[/color]必须放置在[color=KHAKI]船体结构[/color]或者[color=KHAKI]装甲船体外壳[/color]上。请确认你想要修建[color=KHAKI]外壳搭载建筑[/color]的地方都有[color=KHAKI]船体结构[/color]或者[color=KHAKI]装甲船体外壳[/color]。"
+	},
+	"PlaceInternalDoor": {
+		"title": "内部房门",
+		"description": "任何内部房门在修建在与外太空接触的[color=KHAKI]船体结构[/color]上时会泄露舱内气体，试试换用[color=KHAKI]气闸门[/color]。"
+	},
+	"EnteredHighBurn": {
+		"title": "高速飞行模式",
+		"description": "你终于进入了[color=KHAKI]高速飞行模式[/color]！\n\n每个当初从地球出发的探险家都会告诉你探索太空的旅程是多么的坎坷。这段人类早期的历史将被称为[i]“渡泽（SpaceSlog）”[/i]。\n\n现在你将追随他们的脚步，探索这片冷漠与无情的太空，这片名为宇宙的......[i]“水泽”[/i]。"
+	},
+	"Exploration": {
+		"title": "高速飞行模式",
+		"description": "在高速飞行模式下，太空中任何微小的颗粒都有可能杀死你，尤其是在这片不那么空的太空。要进行飞船的扩建，外部结构的修缮，等需要出舱门的活动都需要退出[color=KHAKI]高速飞行模式[/color]。\n\n想找到太空中值得注意的东西，你可以等经过某些东西时的提醒，或者用自己的双眼去发现；这种时候你就可以退出[color=KHAKI]高速飞行模式[/color]来探索一下。\n\n注意退出[color=KHAKI]高速飞行模式[/color]后，你需要重新积累推进力，可能会再此窗口期遭到袭击。"
+	},
+	"HarshSpace": {
+		"title": "高速飞行模式",
+		"description": "宇宙是无情的，你可能会实去船员，甚至可能把整艘飞船都搭进去。\n\n但你走的越远，能发现的就越多。\n\n祝好运！"
+	},
+	"Breach": {
+		"title": "船体破损",
+		"description": "你的飞船气密性受损！未封闭的地方会将相邻房间内的空气抽走。\n\n你需要尽快将未封闭的地方用[color=KHAKI]飞船结构[/color]堵上。\n\n注：若[color=PURPLE]黑色警戒[/color]被拉响，你的船员将无法与破损处交互。"
+	},
+	"ThrusterTurnedOn": {
+		"title": "探索宇宙",
+		"description": "想要四处探索就必须要进入[color=KHAKI]高速飞行模式[/color]，通过高加速度达到很快的速度。\n\n持续为你的[color=KHAKI]推进器[/color]供能并等待[color=PURPLE]推进力[/color]（在[color=PURPLE]舰载系统[/color]页面）积累完成。\n\n进度条满即可点击[color=PURPLE]推进力[/color]条旁的[color=PURPLE]推进[/color]按钮以进入高速飞行模式。\n\n注意：越重的飞船[color=PURPLE]推进力[/color]积累的就越慢，就需要越多的[color=KHAKI]推进器[/color]。\n\n你的推进器运转时会不断消耗电能。"
+	},
+	"BackupPower": {
+		"title": "后备能源",
+		"description": "飞船没有核燃料时，你可以使用[color=KHAKI]应答器[/color]内的备用电池，为应答器自身供能后将有60瓦的盈余。\n\n慢点情况下，此电池大概能支撑10天，再此期间你可以为一台[color=KHAKI]通讯设备[/color]供能（别忘记把其他所有用电设备关掉）。"
+	}
+}

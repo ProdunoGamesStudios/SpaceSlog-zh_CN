@@ -1,0 +1,110 @@
+{
+	"Hypoxaemia": {
+		"title": "血氧过低",
+		"description": "血液中含氧量过低所引起的一系列症状",
+		"stages": {
+			"Minor": {
+				"title": "轻度"
+			},
+			"Moderate":{
+				"title": "中度"
+			},
+			"Major": {
+				"title": "重度"
+			},
+			"Severe": {
+				"title": "危险"
+			}
+		}
+	},
+	"Asphyxiation": {
+		"title": "缺氧",
+		"description": "血氧过低，即将窒息死亡。"
+	},
+	"Malnutrition": {
+		"title": "营养不良",
+		"description": "长期吃不好会营养不良，可能会造成疼痛甚至死亡。",
+		"stages": {
+			"Minor": {
+				"title": "轻度"
+			},
+			"Moderate":{
+				"title": "中度"
+			},
+			"Major": {
+				"title": "重度"
+			},
+			"Severe": {
+				"title": "危险"
+			}
+		}
+	},
+	"SpaceVirus": {
+		"title": "太空病毒",
+		"stages": {
+			"Minor": {
+				"title": "轻度"
+			},
+			"Moderate":{
+				"title": "中度"
+			},
+			"Major": {
+				"title": "重度"
+			},
+			"Severe": {
+				"title": "危险"
+			}
+		}
+	},
+	"Hypovolaemia": {
+		"title": "血容量低",
+		"description": "缺失较多体液所导致的一系列症状。如不能尽快补充体液，将导致意识下降甚至死亡。",
+		"stages": {
+			"Minor": {
+				"title": "轻度"
+			},
+			"Moderate":{
+				"title": "中度"
+			},
+			"Major": {
+				"title": "重度"
+			},
+			"Severe": {
+				"title": "危险"
+			}
+		}
+	},
+	"Dementia": {
+		"title": "痴呆",
+		"description" : "大脑功能下降",
+		"stages": {
+			"Mild": {
+				"title": "轻度"
+			},
+			"Moderate":{
+				"title": "中度"
+			},
+			"Severe": {
+				"title": "重度"
+			}
+		}
+	},
+	"Exhaustion": {
+		"title": "累乏",
+		"description": "一开始可能没什么，但长时间不睡觉的话，意识会逐渐变得模糊",
+		"stages": {
+			"Minor": {
+				"title": "轻度"
+			},
+			"Moderate":{
+				"title": "中度"
+			},
+			"Major": {
+				"title": "重度"
+			},
+			"Severe": {
+				"title": "危险"
+			}
+		}
+	}
+}

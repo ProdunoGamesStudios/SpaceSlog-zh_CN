@@ -1,0 +1,30 @@
+﻿{
+	"PowerMenu": {
+		"title": "电力页面",
+		"description": "[color=PURPLE]电力[/color]页面发电与电力调度设备的页面。\n\n许多设备都需要有一个[color=KHAKI]发电机[/color]供电才能工作。\n请确保你的用电器都已用[color=KHAKI]输电缆[/color]接入电网。\n\n[color=RED]红色[/color][color=KHAKI]输电缆[/color]是连接电器的输电缆，所以请确保所有[color=RED]红色[/color][color=KHAKI]输电缆[/color]都被接入了电网。"
+	},
+	"AtmosphereMenu": {
+		"title": "空气页面",
+		"description": "[color=PURPLE]空气[/color]页面包含了全部维持舱内可呼吸空气的设备。\n\n维持空气环境必须需要你的飞船气密性完好。\n\n注意：任何破损，包括开启的舱门，都会泄露空气。\n\n此处列出的许多建筑都会需要接入[color=KHAKI]气体管道[/color]：请用[color=KHAKI]气体管道[/color]连接建筑上的[color=RED]红色[/color]的管道端口。"
+	},
+	"ShipSystemsMenu": {
+		"title": "飞船系统页面",
+		"description": "[color=PURPLE]飞船系统[/color]页面可让你一眼就知道飞船运行状况。\n\n这里有飞船的诸多信息，你可以在这里看到并更改你飞船的名称，也就是你在[i]这片太空[/i]的标识。\n\n按下此页面上的[color=PURPLE]黑色警戒[/color]按钮会让你的船员立刻返回船舱，并在黑色警戒结束前都待在飞船里面。\n\n你的[color=PURPLE]推进力[/color]指示条也在此页面之上。"
+	},
+	"CrewMenu": {
+		"title": "船员页面",
+		"description": "[color=PURPLE]船员[/color]界面上列举了你飞船上的船员与他们每个人的简况。\n\n你可以在此处查看并授予[color=KHAKI]职位[/color]，或创建自定义[color=KHAKI]职位[/color]，并为这些[color=KHAKI]职位[/color]绑定快捷键。你也可以再此设置船员们的[color=KHAKI]时间表[/color]和[color=KHAKI]工作[/color]。\n\n选择某个船员将召出其个人页面，那里有他们更详细的信息。"
+	},
+	"Schedules": {
+		"title": "时间表",
+		"description": "在[color=PURPLE]船员[/color]页面内的 [color=PURPLE]时间表[/color]页面里，你可以为每个船员设置[color=KHAKI]时间表[/color]来确保他们的工作与睡眠作息合理。选择想要的[color=PURPLE]日程[/color]然后在时间表上填充空格。\n\n船员们会试图遵循[color=KHAKI]时间表[/color]，但维持自身健康的行为，如吃饭、喝水、睡觉等，在必要时有较高的优先级。"
+	},
+	"Jobs": {
+		"title": "工作",
+		"description": "你可以进入到[color=PURPLE]船员[/color]页面内的[color=PURPLE]工作[/color]页面内去设置每个船员分别的工作优先级。\n\n[color=LIGHT_GREEN]点击[/color]方框来调整优先级，将鼠标放置在图标上将显示其所代表的工作种类。\n\n数字越低，优先级越高。"
+	},
+	"Stockpiles": {
+		"title": "储物区域",
+		"description": "你可以在[color=PURPLE]储物区[/color]页面内调整每个[color=KHAKI]储物区域[/color]的优先级，这将让你的船员优先将某个[color=KHAKI]储物区域[/color]填满。\n\n你可以通过在[color=PURPLE]储物区[/color]页面勾选对应类别来更改某个[color=KHAKI]储物区域[/color]里允许储存的物品。"
+	}
+}

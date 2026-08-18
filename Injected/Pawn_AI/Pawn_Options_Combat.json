@@ -1,0 +1,29 @@
+{
+    "ForceShoot": {
+        "title": "强制射击"
+    },
+    "FollowAndMelee": {
+        "title": "追击"
+    },
+    "FinishWithMeleeWeapon": {
+        "title": "近战处死"
+    },
+    "FollowAndShoot": {
+        "title": "追着射击"
+    },
+    "Hunting": {
+        "title": "狩猎"
+    },
+    "EnemyRestrain": {
+        "title": "控制"
+    },
+    "Restrain": {
+        "title": "控制"
+    },
+    "FinishOffNoWeapon": {
+        "title": "处死生物"
+    },
+    "Slaughter": {
+        "title": "宰杀生物"
+    }
+}

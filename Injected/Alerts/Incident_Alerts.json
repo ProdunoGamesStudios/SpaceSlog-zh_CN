@@ -1,0 +1,22 @@
+﻿{
+	"PassingShipDroppedOffCrewman": {
+		"title": "有一名船员被遗弃。",
+		"description": "{faction_name}的{ship_name}让{subject_name}留下帮助你。"
+	},
+	"HostileCreaturesEnteredSector": {
+		"title": "敌对生物进入了这片星域。",
+		"description": "我们发现敌对的{pawn}进入了这片星域，准备迎敌。"
+	},
+	"Infestation": {
+		"title": "鼠虫害",
+		"description": "我们发现了{pawn}！这些可能是混在近期运上船的物资中而潜入的。虽然他们不会主动攻击，但放任不管的话他们可能会偷用你的物资。"
+	},
+	"MayDayPawn": {
+		"title": "救命！",
+		"description": "你的通讯设备接受到了来自一名自称{pawn}的人的求援信息：ta说自己被原来的飞船所遗弃并请求立即救援。\n\n你可以选择退出高速飞行模式去救ta，也可以选择无视ta的求援，将ta留给死亡。"
+	},
+	"HostileSwarm": {
+		"title": "敌人成群而至",
+		"description": "我们发现了一群敌对的{amount}个{pawn}，他们将在{time}小时后抵达。我们应做好应敌准备或者立刻离开。"
+	}
+}

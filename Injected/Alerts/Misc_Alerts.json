@@ -1,0 +1,34 @@
+﻿{
+	"Birthday": {
+		"title": "生日！",
+		"description": "祝贺{subject_name}，今天是{pawn_possessive}{age}岁生日！"
+	},
+	"Death": {
+		"title": "死亡！",
+		"description": "{reason}{subject_name}死了"
+	},
+	"Collapsed": {
+		"title": "{subject_name}需要救援",
+		"description": "{subject_name}因{reason}倒下并需要救援。"
+	},
+	"Mobile": {
+		"title": "{subject_name}可以移动了",
+		"description": "{subject_name}又可以自己走动了。"
+	},
+	"Fire": {
+		"title": "失火",
+		"description": "某处失火！"
+	},
+	"ShipAttacked": {
+		"title": "飞船遭到攻击",
+		"description": "你的飞船正在遭受攻击！"
+	},
+	"PawnAttacked": {
+		"title": "{subject_name}被攻击",
+		"description": "{subject_name}正在被攻击！"
+	},
+	"AnalysisComplete": {
+		"title": "分析完毕",
+		"description": "{subject_name}完成！\n\n{analysis_description}"
+	}
+}

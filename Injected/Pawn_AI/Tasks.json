@@ -1,0 +1,218 @@
+{
+    "Idle": {
+        "title": "Idle"
+    },
+    "Pickup": {
+        "title": "Pickup"
+    },
+    "PickupEntityB": {
+        "title": "Pickup"
+    },
+    "DropIntoBed": {
+        "title": "Drop into bed"
+    },
+    "Drop": {
+        "title": "Drop"
+    },
+    "DropAtRecipe": {
+        "title": "Drop at recipe"
+    },
+    "DropAtPrefab": {
+        "title": "Drop at prefab"
+    },
+    "ForceDrop": {
+        "title": "Force drop"
+    },
+    "Heal": {
+        "title": "Heal"
+    },
+    "MoveTo": {
+        "title": "Move"
+    },
+    "MoveToPathB": {
+        "title": "Move"
+    },
+    "Wait": {
+        "title": "Wait"
+    },
+    "EatFood": {
+        "title": "Eat food"
+    },
+    "Drink": {
+        "title": "Drink"
+    },
+    "FindPathToAdjacentTarget": {
+        "title": "Find path to adjacent target"
+    },
+    "FindPathToTarget": {
+        "title": "Find path to target"
+    },
+    "FindPathToAdjacentTargetB": {
+        "title": "Find path to adjacent target b"
+    },
+    "FindPathToTargetB": {
+        "title": "Find path to target b not adjacent"
+    },
+    "FindPathToTargetCell": {
+        "title": "Find path to target cell"
+    },
+    "FindPathToAdjacentTargetCell": {
+        "title": "Find path to adjacent target cell"
+    },
+    "FindBestStorageCell": {
+        "title": "Find best storage cell"
+    },
+    "GetClosestFuel": {
+        "title": "Find path to closest fuel"
+    },
+    "GetDeadPawnDropSpot": {
+        "title": "Find somewhere to dispose of dead pawn"
+    },
+    "Refuel": {
+        "title": "Refuelling"
+    },
+    "RefuelTargetB": {
+        "title": "Refuelling"
+    },
+    "Clean": {
+        "title": "Clean"
+    },
+    "Reserve": {
+        "title": "Reserve"
+    },
+    "ReserveEntityB": {
+        "title": "Reserve"
+    },
+    "ReserveCell": {
+        "title": "Reserve cell"
+    },
+    "Sleep": {
+        "title": "Sleep"
+    },
+    "RestUntilHealed": {
+        "title": "Rest until healed"
+    },
+    "Equip": {
+        "title": "Equip"
+    },
+    "UnEquip": {
+        "title": "Removing"
+    },
+    "Slip": {
+        "title": "Slip"
+    },
+    "Trip": {
+        "title": "Trip"
+    },
+    "Sing": {
+        "title": "Sing"
+    },
+    "Wave": {
+        "title": "Wave"
+    },
+    "Chat": {
+        "title": "Chat"
+    },
+    "SowAtTargetCell": {
+        "title": "Sow"
+    },
+    "HarvestPlant": {
+        "title": "Harvest"
+    },
+    "DoCooking": {
+        "title": "Refine recipe"
+    },
+    "DoCrafting": {
+        "title": "Do recipe"
+    },
+    "Water": {
+        "title": "Water"
+    },
+    "ClosestMoveCellToPos": {
+        "title": "Forced move"
+    },
+    "Strip": {
+        "title": "Strip"
+    },
+    "Mine": {
+        "title": "Mine"
+    },
+    "Deconstruct": {
+        "title": "Deconstruct"
+    },
+    "Repair": {
+        "title": "Repair"
+    },
+    "Build": {
+        "title": "Build"
+    },
+    "DestroyAsset": {
+        "title": "Destroy asset."
+    },
+    "SitAtChair": {
+        "title": "Sit at chair."
+    },
+    "PlayArcadeMachine": {
+        "title": "Play arcade machine."
+    },
+    "TendHeal": {
+        "title": "Heal"
+    },
+    "TendFeed": {
+        "title": "Feed"
+    },
+    "TendHydrate": {
+        "title": "Hydrate"
+    },
+    "FindPlaceToIngest": {
+        "title": "Find place to ingest"
+    },
+    "BackToShip": {
+        "title": "Find a way back to the ship"
+    },
+    "Butcher": {
+        "title": "Butcher"
+    },
+    "StampFire": {
+        "title": "Stamp out fire"
+    },
+    "MateWithPartner": {
+        "title": "Mate with partner"
+    },
+    "FollowAndMoveTo": {
+        "title": "Follow and move to"
+    },
+    "DoResearch": {
+        "title": "Do research"
+    },
+    "DoAnalysis": {
+        "title": "Do analysis"
+    },
+    "EnterCasket": {
+        "title": "Enter casket"
+    },
+    "DropIntoCasket": {
+        "title": "Take to casket"
+    },
+    "OpenCasket": {
+        "title": "Open casket"
+    },
+    "PlanBatchHaulToPrefab": {
+        "title": "Plan batched haul to prefab"
+    },
+    "PlanBatchHaulToStockpile": {
+        "title": "Plan batched haul to stockpile"
+    },
+    "PlanBatchSowSeeds": {
+        "title": "Plan batched sow seeds"
+    },
+    "BatchedPickup": {
+        "title": "Set next pickup"
+    },
+    "BatchedHaul": {
+        "title": "Set next haul"
+    },
+    "BatchedSow": {
+        "title": "Set next sow"
+    }
+}

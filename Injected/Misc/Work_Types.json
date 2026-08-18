@@ -1,0 +1,62 @@
+{
+	"FireControl": {
+		"title": "救火",
+		"description": "尝试熄灭任何火焰。"
+	},
+	"Patient": {
+		"title": "养病",
+		"description": "在受伤或得病时会卧床休息以恢复健康。"
+	},
+	"Medical": {
+		"title": "医疗",
+		"description": "救治伤者和患者。"
+	},
+	"Cook": {
+		"title": "料理",
+		"description": "包括所有与烹煮或酿制相关的工作。"
+	},
+	"Botany": {
+		"title": "种植",
+		"description": "种植，照料，收获作物。"
+	},
+	"Engineering": {
+		"title": "工程",
+		"description": "设施维护，建造，拆除。"
+	},
+	"Janitor": {
+		"title": "保洁",
+		"description": "清理地板，以及一些其他基础工作。"
+	},
+	"Security": {
+		"title": "狱卒",
+		"description": "看管与照料囚犯。"
+	},
+	"Science": {
+		"title": "科研",
+		"description": "包括如开展研究等与科学有关的工作。"
+	},
+	"AnimalHandler": {
+		"title": "动物",
+		"description": "照料与训练动物。"
+	},
+	"Tailor": {
+		"title": "裁缝",
+		"description": "制作穿戴品。"
+	},
+	"Machining": {
+		"title": "机加工",
+		"description": "制作各种装备与飞船部件"
+	},
+	"Labourer": {
+		"title": "劳力",
+		"description": "搬运尸体与物品，为设备补充燃料或耗材。"
+	},
+	"Mining": {
+		"title": "挖掘",
+		"description": "执行挖掘工作。"
+	},
+	"Hunting": {
+		"title": "狩猎",
+		"description": "狩猎任何被标记的生物。"
+	}
+}

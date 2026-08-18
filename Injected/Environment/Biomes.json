@@ -1,0 +1,14 @@
+﻿{
+	"AridDesert": {
+		"title": "干旱的沙漠",
+		"description": "干旱而罕有植被的沙漠。"
+	},
+	"RockyDesert": {
+		"title": "岩石沙漠",
+		"description": "干旱并怪石嶙峋，罕有植被的沙漠。"
+	},
+	"DesertPlains": {
+		"title": "沙漠平原",
+		"description": "干旱而罕有植被的生态。"
+	}
+}

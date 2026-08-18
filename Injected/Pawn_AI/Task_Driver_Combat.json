@@ -1,0 +1,46 @@
+{
+    "FollowAndMelee": {
+        "title": "追击",
+        "description": "正在追击{object_a}。"
+    },
+    "FollowAndShoot": {
+        "title": "追着射击",
+        "description": "正在攻击{object_a}。"
+    },
+    "Hunt": {
+        "title": "狩猎",
+        "description": "正在狩猎{object_a}。"
+    },
+    "Flee": {
+        "title": "逃跑",
+        "description": "正在逃跑。"
+    },
+    "MeleeBuilding": {
+        "title": "近战攻击建筑",
+        "description": "正在攻击{object_a}。"
+    },
+    "ForceShoot": {
+        "title": "强制射击",
+        "description": "正在朝{object_a}射击。"
+    },
+    "StampFire": {
+        "title": "灭火",
+        "description": "正在踩灭{object_a}上的火。"
+    },
+    "Restrain": {
+        "title": "控制",
+        "description": "正在束缚{object_a}。"
+    },
+    "Slaughter": {
+        "title": "宰杀",
+        "description": "正在宰杀{object_a}。"
+    },
+    "FinishOffNoWeapon": {
+        "title": "处死",
+        "description": "正在给{object_a}最后一刀。"
+    },
+    "FinishWithMeleeWeapon": {
+        "title": "近战处死",
+        "description": "正在给{object_a}最后一刀。"
+    }
+}

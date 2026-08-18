@@ -1,0 +1,106 @@
+﻿{
+	"SleepingSpot": {
+		"title": "睡觉区",
+		"description": "一个地板上指定的区域，可用于睡眠或救援的不舒适一人床位。"
+	},
+	"SleepingBag": {
+		"title": "睡袋",
+		"description": "暖和但不是非常舒适的一人床位。"
+	},
+	"SingleBed": {
+		"title": "单人床",
+		"description": "暖和又舒适的一人床位。"
+	},
+	"DoubleBed": {
+		"title": "双人床",
+		"description": "可供两人一起睡觉的温暖又舒适的双人床位。"
+	},
+	"AnimalSleepingSpot": {
+		"title": "动物睡觉区",
+		"description": "一个地板上指定的区域，可用于睡眠或救援的不舒适动物床位。"
+	},
+	"SmallAnimalBed": {
+		"title": "动物用床",
+		"description": "一个舒适的可供小型动物睡觉的床。"
+	},
+	"HospitalBed": {
+		"title": "单人病床",
+		"description": "一个可供一人休息并疗养伤病的温暖而舒适的床位。"
+	},
+	"CryoPod": {
+		"title": "冷冻舱",
+		"description": "以寒冷将生物静滞，使其不会衰老，有内置的能源。"
+	},
+	"SmallTable": {
+		"title": "小号桌子",
+		"description": "一个可以吃饭用的小桌，比在地上吃饭舒适多了。"
+	},
+	"MediumTable": {
+		"title": "中号桌子",
+		"description": "一个可以吃饭用的桌子，比在地上吃饭舒适多了。"
+	},
+	"LargeTable": {
+		"title": "大号桌子",
+		"description": "一个可以吃饭用的大桌，比在地上吃饭舒适多了。"
+	},
+	"BedSideTable": {
+		"title": "床头桌",
+		"description": "放在床边的小桌子，可以用于提升宿舍品质。"
+	},
+	"Dresser": {
+		"title": "衣柜",
+		"description": "一个可以用于提升宿舍品质的衣柜。"
+	},
+	"Chair": {
+		"title": "椅子",
+		"description": "一个较为舒适的座位。"
+	},
+	"Stool": {
+		"title": "凳子",
+		"description": "比坐在地上舒服。"
+	},
+	"CaptainsChair": {
+		"title": "舰长椅",
+		"description": "一个配得上一舰舰长的椅子。"
+	},
+	"CommandChair": {
+		"title": "指挥椅",
+		"description": "一款舰桥里常见的椅子。"
+	},
+	"FloorLight": {
+		"title": "地灯",
+		"description": "一个嵌在地里的常规照明设备。"
+	},
+	"StandingLight": {
+		"title": "立灯",
+		"description": "一个矗立在地面上的常规照明设备。"
+	},
+	"AlarmFloorLight": {
+		"title": "警示地灯",
+		"description": "嵌在地里的红色闪光灯。"
+	},
+	"ConcreteFloor": {
+		"title": "水泥地面",
+		"description": "大型航天器里常用的地面，十分沉重。必须建造在结构地板上。"
+	},
+	"CarpetFloor": {
+		"title": "地毯",
+		"description": "地毯奢侈而舒适。必须建造在结构地板上。"
+	},
+	"WoodFloor": {
+		"title": "木地板",
+		"description": "舒适的木地板。必须建造在结构地板上。"
+	},
+	"Door": {
+		"title": "门",
+		"description": "手动开关的基础房门。暴露在太空时会无法阻止舱内的气体外泄。"
+	},
+	"AutoDoor": {
+		"title": "自动门",
+		"description": "自动门，不通电时开关门会慢一些。暴露在外太空时无法阻止舱内气体外泄。"
+	},
+	"ArmouredDoor": {
+		"title": "装甲门",
+		"description": "以装甲加固了的自动门，未通电时开关门会慢一些。暴露在外太空时无法阻止舱内气体外泄。"
+	}
+}
