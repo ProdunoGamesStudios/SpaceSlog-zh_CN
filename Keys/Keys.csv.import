@@ -2,7 +2,7 @@
 
 importer="csv_translation"
 type="Translation"
-uid="uid://dhx1nmpmh21ml"
+uid="uid://mjxs1obwu82r"
 
 [deps]
 
@@ -13,7 +13,7 @@ dest_files=["res://Data/Core/Language/zh_CN/Keys/Keys.zh_CN.translation"]
 
 [params]
 
-compress=true
+compress=1
 delimiter=0
 unescape_keys=false
 unescape_translations=true
